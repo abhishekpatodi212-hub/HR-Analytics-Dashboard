@@ -1,0 +1,106 @@
+import sys, pandas as pd
+sys.path.insert(0, "/home/claude/portfolio")
+from _xlsx_helpers import *
+from openpyxl import Workbook
+from openpyxl.chart import Reference
+
+df = pd.read_csv("hr_data.csv")
+
+wb = Workbook()
+ws_data = wb.active
+ws_data.title = "Raw Data"
+last_row = write_df_as_table(ws_data, df, table_name="HRData")
+ws_data.freeze_panes = "A2"
+# A EmployeeID B Department C Gender D Age E TenureYears F AnnualSalary
+# G SatisfactionScore H PerformanceRating I OverTime J WorkFromHome K Education L Attrition
+
+ws = wb.create_sheet("Summary")
+ws["A1"] = "HR ANALYTICS — SUMMARY DASHBOARD"
+ws["A1"].font = title_font(16)
+ws.merge_cells("A1:H1")
+
+add_kpi_card(ws, 3, 1, "TOTAL HEADCOUNT", f"=COUNTA('Raw Data'!A2:A{last_row})", "#,##0", 2)
+add_kpi_card(ws, 3, 3, "ATTRITION RATE", f"=COUNTIF('Raw Data'!L2:L{last_row},\"Yes\")/COUNTA('Raw Data'!L2:L{last_row})", "0.0%", 2)
+add_kpi_card(ws, 3, 5, "AVG SATISFACTION (1-5)", f"=AVERAGE('Raw Data'!G2:G{last_row})", "0.00", 2)
+add_kpi_card(ws, 3, 7, "AVG SALARY (₹)", f"=AVERAGE('Raw Data'!F2:F{last_row})", "₹#,##0", 2)
+
+# Department table
+depts = sorted(df["Department"].unique())
+ws["A7"] = "Headcount & Attrition by Department"
+ws["A7"].font = title_font(12)
+for j, h in enumerate(["Department", "Headcount", "Attrition Rate", "Avg Satisfaction"]):
+    ws.cell(row=8, column=1+j, value=h)
+style_header_row(ws, 8, 4, 1)
+for i, d in enumerate(depts):
+    r = 9 + i
+    ws.cell(row=r, column=1, value=d)
+    ws.cell(row=r, column=2, value=f"=COUNTIF('Raw Data'!B2:B{last_row},A{r})")
+    ws.cell(row=r, column=3, value=f"=COUNTIFS('Raw Data'!B2:B{last_row},A{r},'Raw Data'!L2:L{last_row},\"Yes\")/COUNTIF('Raw Data'!B2:B{last_row},A{r})").number_format = "0.0%"
+    ws.cell(row=r, column=4, value=f"=AVERAGEIF('Raw Data'!B2:B{last_row},A{r},'Raw Data'!G2:G{last_row})").number_format = "0.00"
+dept_end = 8 + len(depts)
+
+# Attrition by satisfaction score
+sat_start = dept_end + 3
+ws.cell(row=sat_start-1, column=1, value="Attrition Rate by Satisfaction Score").font = title_font(12)
+ws.cell(row=sat_start, column=1, value="SatisfactionScore")
+ws.cell(row=sat_start, column=2, value="Attrition Rate")
+style_header_row(ws, sat_start, 2, 1)
+for i, s in enumerate(range(1,6)):
+    r = sat_start + 1 + i
+    ws.cell(row=r, column=1, value=s)
+    ws.cell(row=r, column=2, value=f"=COUNTIFS('Raw Data'!G2:G{last_row},A{r},'Raw Data'!L2:L{last_row},\"Yes\")/COUNTIF('Raw Data'!G2:G{last_row},A{r})").number_format = "0.0%"
+sat_end = sat_start + 5
+
+# Attrition: overtime vs no overtime
+ot_start = sat_end + 3
+ws.cell(row=ot_start-1, column=1, value="Attrition Rate by OverTime Status").font = title_font(12)
+ws.cell(row=ot_start, column=1, value="OverTime")
+ws.cell(row=ot_start, column=2, value="Attrition Rate")
+style_header_row(ws, ot_start, 2, 1)
+for i, v in enumerate(["Yes","No"]):
+    r = ot_start + 1 + i
+    ws.cell(row=r, column=1, value=v)
+    ws.cell(row=r, column=2, value=f"=COUNTIFS('Raw Data'!I2:I{last_row},A{r},'Raw Data'!L2:L{last_row},\"Yes\")/COUNTIF('Raw Data'!I2:I{last_row},A{r})").number_format = "0.0%"
+ot_end = ot_start + 2
+
+# Gender diversity by department (stacked)
+gd_start = ot_end + 3
+ws.cell(row=gd_start-1, column=1, value="Headcount by Department & Gender").font = title_font(12)
+for j, h in enumerate(["Department","Male","Female"]):
+    ws.cell(row=gd_start, column=1+j, value=h)
+style_header_row(ws, gd_start, 3, 1)
+for i, d in enumerate(depts):
+    r = gd_start + 1 + i
+    ws.cell(row=r, column=1, value=d)
+    ws.cell(row=r, column=2, value=f"=COUNTIFS('Raw Data'!B2:B{last_row},A{r},'Raw Data'!C2:C{last_row},\"Male\")")
+    ws.cell(row=r, column=3, value=f"=COUNTIFS('Raw Data'!B2:B{last_row},A{r},'Raw Data'!C2:C{last_row},\"Female\")")
+gd_end = gd_start + len(depts)
+
+set_col_widths(ws, {"A": 22, "B": 16, "C": 16, "D": 16, "E": 16, "F": 16, "G": 16, "H": 16})
+
+wsc = wb.create_sheet("Dashboard Charts")
+wsc["A1"] = "HR PERFORMANCE — VISUAL DASHBOARD"
+wsc["A1"].font = title_font(16)
+wsc.merge_cells("A1:J1")
+
+add_bar_chart(wsc, "A3", "Attrition Rate by Department",
+              Reference(ws, min_col=3, max_col=3, min_row=8, max_row=dept_end),
+              Reference(ws, min_col=1, max_col=1, min_row=9, max_row=dept_end),
+              y_title="Attrition Rate", bar_color="D9534F")
+
+add_bar_chart(wsc, "K3", "Attrition Rate by Satisfaction Score",
+              Reference(ws, min_col=2, max_col=2, min_row=sat_start, max_row=sat_end),
+              Reference(ws, min_col=1, max_col=1, min_row=sat_start+1, max_row=sat_end),
+              y_title="Attrition Rate", bar_color=BLUE)
+
+add_pie_chart(wsc, "A21", "Headcount by Department",
+              Reference(ws, min_col=2, max_col=2, min_row=8, max_row=dept_end),
+              Reference(ws, min_col=1, max_col=1, min_row=9, max_row=dept_end))
+
+add_bar_chart(wsc, "K21", "Attrition Rate: OverTime vs No OverTime",
+              Reference(ws, min_col=2, max_col=2, min_row=ot_start, max_row=ot_end),
+              Reference(ws, min_col=1, max_col=1, min_row=ot_start+1, max_row=ot_end),
+              y_title="Attrition Rate", bar_color=NAVY)
+
+wb.save("HR_Analytics_Dashboard.xlsx")
+print("Saved. dept_end", dept_end, "sat_end", sat_end, "ot_end", ot_end, "gd_end", gd_end)
