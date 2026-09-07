@@ -1,0 +1,1501 @@
+EmployeeID,Department,Gender,Age,TenureYears,AnnualSalary,SatisfactionScore,PerformanceRating,OverTime,WorkFromHome,Education,Attrition
+EMP9000,Finance,Male,22,5.4,456000.0,3,4,No,Yes,Master's,No
+EMP9001,Marketing,Male,23,12.2,507000.0,3,3,No,Yes,Diploma,No
+EMP9002,Sales,Female,50,11.1,2068000.0,5,5,Yes,No,Bachelor's,No
+EMP9003,Operations,Male,49,14.7,1232000.0,1,3,No,No,Bachelor's,Yes
+EMP9004,Sales,Female,25,3.9,485000.0,1,3,Yes,Yes,Bachelor's,Yes
+EMP9005,Operations,Female,36,3.4,1458000.0,2,2,Yes,No,Bachelor's,Yes
+EMP9006,Sales,Female,52,4.1,1097000.0,5,3,No,Yes,Master's,No
+EMP9007,Operations,Female,57,14.0,1208000.0,4,1,Yes,No,Bachelor's,No
+EMP9008,Sales,Female,53,9.2,1880000.0,2,3,No,Yes,Master's,Yes
+EMP9009,Sales,Female,34,9.0,1238000.0,4,4,No,Yes,Master's,No
+EMP9010,Engineering,Male,44,9.5,1433000.0,2,4,Yes,No,Bachelor's,No
+EMP9011,HR,Male,25,6.2,518000.0,2,2,No,No,Master's,No
+EMP9012,Customer Support,Female,25,6.7,2040000.0,3,4,Yes,Yes,Master's,Yes
+EMP9013,HR,Male,45,10.1,1758000.0,1,4,No,No,Bachelor's,No
+EMP9014,Marketing,Male,30,2.2,551000.0,4,1,No,Yes,Bachelor's,No
+EMP9015,Customer Support,Female,43,9.1,523000.0,2,1,No,No,Bachelor's,No
+EMP9016,Sales,Female,50,1.1,533000.0,3,1,No,No,Bachelor's,No
+EMP9017,HR,Female,40,0.7,990000.0,1,5,No,Yes,Master's,Yes
+EMP9018,Finance,Female,31,6.0,523000.0,1,3,Yes,No,PhD,No
+EMP9019,Marketing,Male,38,9.9,571000.0,3,2,No,No,Master's,No
+EMP9020,Operations,Male,54,3.5,1240000.0,1,5,Yes,Yes,Master's,Yes
+EMP9021,HR,Female,44,11.4,964000.0,2,1,No,Yes,Master's,Yes
+EMP9022,Engineering,Male,44,11.6,1703000.0,4,1,No,Yes,Bachelor's,No
+EMP9023,Sales,Male,30,12.5,1805000.0,1,5,No,No,Master's,No
+EMP9024,Sales,Female,39,10.0,710000.0,4,1,Yes,Yes,Bachelor's,No
+EMP9025,Operations,Male,37,12.8,893000.0,5,1,No,No,Diploma,Yes
+EMP9026,Marketing,Male,42,5.4,631000.0,1,1,No,No,Master's,No
+EMP9027,Finance,Male,21,7.4,1917000.0,5,1,No,No,Master's,Yes
+EMP9028,HR,Female,30,7.8,363000.0,5,4,No,No,Bachelor's,No
+EMP9029,Operations,Male,42,1.2,342000.0,5,5,No,Yes,Diploma,No
+EMP9030,Marketing,Female,24,14.1,2179000.0,2,4,No,Yes,Bachelor's,No
+EMP9031,Operations,Male,33,4.6,445000.0,3,4,No,No,Bachelor's,No
+EMP9032,Sales,Female,26,13.6,1219000.0,3,1,Yes,No,Bachelor's,No
+EMP9033,Sales,Female,41,3.3,1887000.0,3,3,No,Yes,Bachelor's,Yes
+EMP9034,HR,Male,51,12.8,1256000.0,2,3,No,No,Diploma,No
+EMP9035,HR,Female,27,4.9,1817000.0,3,3,Yes,No,Diploma,No
+EMP9036,Marketing,Female,33,8.5,1649000.0,5,5,No,No,Master's,No
+EMP9037,Sales,Female,43,9.7,1577000.0,1,1,Yes,No,PhD,No
+EMP9038,Customer Support,Male,31,11.1,2117000.0,3,2,No,No,Bachelor's,No
+EMP9039,Sales,Male,22,10.1,520000.0,3,4,Yes,Yes,Diploma,No
+EMP9040,Operations,Male,56,11.5,331000.0,4,4,Yes,Yes,Bachelor's,No
+EMP9041,Customer Support,Male,54,3.6,1962000.0,2,1,No,No,Bachelor's,Yes
+EMP9042,Operations,Female,47,9.7,559000.0,5,3,No,No,Diploma,No
+EMP9043,Sales,Female,51,5.6,1689000.0,1,2,Yes,Yes,Bachelor's,No
+EMP9044,Finance,Female,48,3.3,1311000.0,5,4,No,Yes,PhD,No
+EMP9045,Engineering,Female,42,13.3,783000.0,2,1,Yes,Yes,Bachelor's,Yes
+EMP9046,Operations,Male,50,4.2,498000.0,2,4,Yes,Yes,PhD,No
+EMP9047,Engineering,Male,48,2.3,612000.0,2,4,No,No,Bachelor's,No
+EMP9048,Operations,Female,39,0.9,309000.0,4,2,No,Yes,PhD,Yes
+EMP9049,Sales,Female,49,4.1,1562000.0,5,1,No,No,Bachelor's,No
+EMP9050,Operations,Male,54,10.7,482000.0,2,4,No,No,Bachelor's,Yes
+EMP9051,Customer Support,Male,54,0.3,1999000.0,5,5,Yes,No,PhD,No
+EMP9052,Customer Support,Female,37,9.5,1212000.0,2,1,No,Yes,Diploma,No
+EMP9053,HR,Male,49,5.6,1831000.0,2,1,No,No,Bachelor's,No
+EMP9054,Marketing,Female,25,13.9,1657000.0,1,4,No,No,Bachelor's,No
+EMP9055,Engineering,Male,26,2.3,812000.0,5,4,No,No,Bachelor's,No
+EMP9056,Sales,Female,27,6.4,899000.0,2,5,Yes,No,PhD,Yes
+EMP9057,HR,Female,36,14.5,1837000.0,2,4,No,No,Bachelor's,Yes
+EMP9058,Marketing,Male,29,12.2,1176000.0,2,4,Yes,No,Bachelor's,Yes
+EMP9059,Marketing,Male,43,2.6,1304000.0,1,4,No,Yes,Master's,Yes
+EMP9060,Engineering,Female,24,13.8,328000.0,5,5,Yes,No,Master's,Yes
+EMP9061,Sales,Male,55,3.6,2114000.0,5,5,No,No,Bachelor's,Yes
+EMP9062,Operations,Female,27,5.4,1201000.0,4,5,No,No,PhD,No
+EMP9063,Finance,Male,49,6.2,698000.0,5,4,No,No,Bachelor's,No
+EMP9064,HR,Female,24,2.3,1489000.0,3,5,Yes,No,Master's,No
+EMP9065,Sales,Female,44,7.7,1355000.0,4,3,No,No,Bachelor's,No
+EMP9066,HR,Female,43,9.8,1586000.0,4,1,No,Yes,Bachelor's,No
+EMP9067,Sales,Female,29,14.4,2106000.0,3,3,Yes,Yes,Master's,No
+EMP9068,Engineering,Female,42,13.1,1482000.0,3,3,Yes,No,Diploma,No
+EMP9069,Sales,Female,29,11.6,912000.0,4,1,Yes,No,Master's,Yes
+EMP9070,Sales,Male,39,13.9,439000.0,1,2,No,Yes,Master's,No
+EMP9071,Finance,Male,51,2.6,513000.0,3,1,No,No,Master's,No
+EMP9072,Sales,Male,33,1.2,1015000.0,2,1,Yes,No,Master's,No
+EMP9073,Operations,Male,43,2.2,2019000.0,2,3,No,Yes,Bachelor's,No
+EMP9074,Customer Support,Male,44,0.7,874000.0,5,2,Yes,No,Master's,No
+EMP9075,HR,Male,33,9.2,567000.0,1,3,No,Yes,Master's,No
+EMP9076,Operations,Male,22,2.2,1141000.0,2,4,Yes,No,Diploma,Yes
+EMP9077,Engineering,Male,25,7.4,1116000.0,4,4,No,No,Bachelor's,No
+EMP9078,Sales,Male,26,7.3,1292000.0,4,3,Yes,No,Bachelor's,No
+EMP9079,Sales,Female,47,15.0,707000.0,2,5,Yes,No,Bachelor's,Yes
+EMP9080,Customer Support,Female,53,12.4,1356000.0,3,1,Yes,No,Diploma,No
+EMP9081,HR,Male,39,11.4,2171000.0,5,4,Yes,No,Master's,No
+EMP9082,HR,Female,30,6.3,1296000.0,5,2,Yes,No,Bachelor's,No
+EMP9083,Customer Support,Male,28,1.9,391000.0,3,5,Yes,Yes,Bachelor's,No
+EMP9084,Sales,Female,42,1.6,1122000.0,1,5,No,Yes,Master's,No
+EMP9085,Engineering,Female,42,2.0,1911000.0,4,1,No,Yes,Master's,No
+EMP9086,Sales,Male,53,8.2,2003000.0,3,2,Yes,Yes,PhD,No
+EMP9087,HR,Male,44,11.2,907000.0,4,4,No,No,Bachelor's,No
+EMP9088,Operations,Female,45,14.1,466000.0,1,5,Yes,Yes,Master's,Yes
+EMP9089,Marketing,Male,21,5.1,616000.0,4,2,No,No,Bachelor's,No
+EMP9090,Marketing,Female,46,7.0,2037000.0,4,3,No,No,Bachelor's,Yes
+EMP9091,Finance,Female,22,2.7,2138000.0,1,2,No,No,Bachelor's,No
+EMP9092,Marketing,Male,45,5.2,1859000.0,3,4,Yes,No,Bachelor's,No
+EMP9093,HR,Female,32,14.3,1879000.0,2,5,No,No,Master's,No
+EMP9094,Sales,Male,42,12.5,1567000.0,5,2,No,Yes,Master's,No
+EMP9095,Finance,Female,32,6.2,855000.0,2,5,No,Yes,Bachelor's,No
+EMP9096,Finance,Male,33,2.3,1110000.0,2,3,No,No,Master's,No
+EMP9097,Sales,Female,21,11.1,1388000.0,5,4,No,No,Bachelor's,No
+EMP9098,Customer Support,Female,30,8.7,1691000.0,3,2,No,Yes,Master's,No
+EMP9099,Finance,Male,23,11.9,1007000.0,1,4,No,No,Master's,Yes
+EMP9100,Finance,Male,24,7.8,1886000.0,4,2,Yes,Yes,Bachelor's,Yes
+EMP9101,Customer Support,Female,44,12.4,2070000.0,2,2,Yes,Yes,Diploma,Yes
+EMP9102,HR,Male,56,11.6,1162000.0,1,1,Yes,No,Master's,Yes
+EMP9103,Operations,Female,32,8.8,2000000.0,2,2,No,No,Master's,No
+EMP9104,Sales,Female,40,12.1,406000.0,2,4,No,Yes,Master's,No
+EMP9105,HR,Female,41,3.5,589000.0,5,4,Yes,Yes,Diploma,Yes
+EMP9106,Sales,Female,52,1.1,1113000.0,3,2,No,Yes,Bachelor's,No
+EMP9107,HR,Male,39,3.6,1798000.0,4,3,Yes,Yes,Diploma,No
+EMP9108,Marketing,Female,53,4.0,1022000.0,2,1,No,No,Bachelor's,Yes
+EMP9109,Engineering,Female,30,9.1,1385000.0,3,1,Yes,No,Master's,Yes
+EMP9110,HR,Female,23,12.7,945000.0,2,3,No,No,Bachelor's,No
+EMP9111,Sales,Male,39,9.1,840000.0,3,2,Yes,No,PhD,No
+EMP9112,HR,Female,23,12.7,2182000.0,4,1,Yes,No,Master's,Yes
+EMP9113,Finance,Female,50,7.3,2068000.0,3,2,No,Yes,Master's,Yes
+EMP9114,Sales,Female,51,0.4,1026000.0,2,5,No,Yes,Master's,Yes
+EMP9115,Marketing,Male,36,8.5,1280000.0,5,1,No,Yes,Master's,No
+EMP9116,HR,Male,51,12.3,1709000.0,4,5,Yes,No,Diploma,No
+EMP9117,Sales,Male,27,4.9,1293000.0,2,1,No,No,Bachelor's,No
+EMP9118,HR,Male,53,0.5,1351000.0,1,1,Yes,No,Master's,Yes
+EMP9119,Operations,Male,40,0.6,1768000.0,3,3,No,No,Bachelor's,No
+EMP9120,Engineering,Female,31,10.6,1143000.0,4,2,Yes,No,Master's,No
+EMP9121,Finance,Female,56,13.1,675000.0,3,2,No,Yes,Bachelor's,No
+EMP9122,Finance,Female,22,1.0,2065000.0,1,1,Yes,No,Bachelor's,No
+EMP9123,Sales,Male,37,0.6,1909000.0,3,4,No,No,Bachelor's,No
+EMP9124,Operations,Female,43,5.1,1584000.0,5,2,No,Yes,Bachelor's,No
+EMP9125,Engineering,Male,21,11.4,2106000.0,3,1,No,No,Master's,No
+EMP9126,Sales,Male,44,3.4,1112000.0,2,4,No,Yes,Bachelor's,No
+EMP9127,HR,Male,34,6.7,1560000.0,4,1,No,No,Bachelor's,No
+EMP9128,Customer Support,Female,29,3.2,1563000.0,3,2,No,No,Bachelor's,No
+EMP9129,Engineering,Male,27,2.5,727000.0,3,1,No,No,Bachelor's,Yes
+EMP9130,Marketing,Female,42,7.4,1940000.0,5,1,No,Yes,Master's,No
+EMP9131,Finance,Female,56,13.4,1767000.0,1,5,No,Yes,Master's,No
+EMP9132,Sales,Female,26,0.3,1112000.0,1,3,Yes,No,Master's,No
+EMP9133,Sales,Male,25,2.0,504000.0,3,2,Yes,No,Bachelor's,No
+EMP9134,HR,Female,40,0.7,1126000.0,3,3,Yes,Yes,Bachelor's,Yes
+EMP9135,Sales,Male,26,11.7,1952000.0,2,5,Yes,Yes,Diploma,No
+EMP9136,Sales,Male,56,1.8,497000.0,2,5,No,No,Diploma,No
+EMP9137,Sales,Male,43,4.8,715000.0,4,4,No,Yes,PhD,No
+EMP9138,Operations,Male,22,13.4,423000.0,2,3,No,Yes,Master's,Yes
+EMP9139,Finance,Male,54,6.5,795000.0,2,3,No,Yes,Bachelor's,No
+EMP9140,Engineering,Female,22,11.1,1609000.0,3,3,Yes,Yes,Bachelor's,No
+EMP9141,Customer Support,Male,42,2.0,749000.0,4,4,Yes,No,Master's,No
+EMP9142,Operations,Female,32,8.3,789000.0,3,3,No,Yes,Bachelor's,No
+EMP9143,Finance,Female,52,8.5,1609000.0,5,1,No,No,PhD,No
+EMP9144,Customer Support,Female,54,14.8,1715000.0,2,2,No,Yes,Bachelor's,No
+EMP9145,Sales,Female,36,0.3,602000.0,1,4,No,No,Bachelor's,No
+EMP9146,HR,Male,53,5.3,1892000.0,1,3,No,No,Diploma,Yes
+EMP9147,Engineering,Male,40,6.8,1750000.0,1,2,No,Yes,Bachelor's,No
+EMP9148,Customer Support,Male,21,7.2,452000.0,2,1,Yes,No,Diploma,Yes
+EMP9149,HR,Male,22,1.2,1445000.0,5,1,No,No,Master's,No
+EMP9150,Marketing,Male,27,5.8,417000.0,4,5,No,No,Master's,No
+EMP9151,Engineering,Female,43,0.6,1704000.0,2,5,No,Yes,Bachelor's,No
+EMP9152,HR,Male,50,8.9,1480000.0,1,4,Yes,No,Bachelor's,Yes
+EMP9153,Sales,Male,52,2.6,1562000.0,4,5,No,No,PhD,No
+EMP9154,Sales,Male,29,10.9,1502000.0,1,2,No,Yes,Bachelor's,Yes
+EMP9155,Finance,Male,48,9.8,1046000.0,1,5,No,Yes,Diploma,No
+EMP9156,Sales,Male,49,3.5,1835000.0,1,1,No,Yes,Master's,Yes
+EMP9157,Operations,Female,48,4.2,2059000.0,1,3,No,Yes,Diploma,No
+EMP9158,Customer Support,Female,22,8.1,1617000.0,2,3,Yes,No,Master's,Yes
+EMP9159,Finance,Female,28,1.6,1449000.0,3,2,Yes,Yes,Master's,Yes
+EMP9160,HR,Female,40,1.4,521000.0,1,3,Yes,Yes,Bachelor's,Yes
+EMP9161,Sales,Male,37,12.7,327000.0,3,2,No,No,PhD,No
+EMP9162,Operations,Female,54,14.8,2029000.0,5,1,Yes,Yes,Bachelor's,No
+EMP9163,HR,Female,44,8.0,1548000.0,1,1,Yes,No,Bachelor's,No
+EMP9164,Operations,Female,39,10.9,1817000.0,1,3,No,No,Bachelor's,Yes
+EMP9165,Customer Support,Female,53,13.7,890000.0,4,5,No,No,Diploma,No
+EMP9166,Finance,Male,41,12.6,1501000.0,3,4,Yes,No,Bachelor's,No
+EMP9167,Engineering,Female,37,1.5,459000.0,2,5,Yes,No,Diploma,No
+EMP9168,HR,Male,26,6.8,1256000.0,5,2,Yes,No,Bachelor's,No
+EMP9169,HR,Male,39,7.2,430000.0,3,4,Yes,Yes,Master's,No
+EMP9170,Engineering,Male,42,14.5,1209000.0,3,4,No,Yes,Bachelor's,No
+EMP9171,Sales,Male,57,13.1,1048000.0,5,1,Yes,Yes,Diploma,No
+EMP9172,Customer Support,Female,40,6.1,1107000.0,1,5,No,No,Bachelor's,No
+EMP9173,Operations,Female,36,8.5,1653000.0,5,5,No,Yes,Bachelor's,No
+EMP9174,Sales,Male,23,11.2,678000.0,5,1,Yes,No,Bachelor's,Yes
+EMP9175,Finance,Male,41,7.0,378000.0,3,3,No,Yes,Bachelor's,No
+EMP9176,Engineering,Female,39,13.7,513000.0,3,5,No,Yes,Bachelor's,No
+EMP9177,Finance,Male,49,2.0,1109000.0,1,4,No,No,Bachelor's,Yes
+EMP9178,Sales,Male,57,13.6,992000.0,5,2,No,No,Master's,Yes
+EMP9179,Engineering,Male,54,4.5,655000.0,5,4,No,Yes,Master's,No
+EMP9180,Engineering,Male,44,12.2,775000.0,1,2,Yes,No,Bachelor's,Yes
+EMP9181,Sales,Male,50,7.8,385000.0,4,3,No,No,Bachelor's,No
+EMP9182,Finance,Male,31,2.6,874000.0,4,4,No,Yes,Bachelor's,No
+EMP9183,Engineering,Female,46,2.9,2001000.0,2,2,No,No,Bachelor's,No
+EMP9184,HR,Female,33,2.3,1518000.0,3,1,No,No,Diploma,Yes
+EMP9185,Operations,Female,45,11.1,385000.0,2,1,No,No,Master's,No
+EMP9186,Sales,Male,55,6.4,836000.0,2,3,Yes,No,Bachelor's,No
+EMP9187,Marketing,Female,36,9.9,2104000.0,1,5,No,No,Bachelor's,No
+EMP9188,Operations,Male,40,14.3,816000.0,4,1,No,No,Bachelor's,No
+EMP9189,HR,Male,28,12.7,788000.0,1,1,No,Yes,Master's,No
+EMP9190,HR,Female,26,4.9,1285000.0,1,2,No,Yes,Master's,No
+EMP9191,Customer Support,Male,54,10.0,1846000.0,3,4,No,No,Bachelor's,No
+EMP9192,Operations,Female,30,13.5,1614000.0,5,1,No,Yes,Master's,Yes
+EMP9193,Operations,Male,28,10.6,448000.0,3,2,No,Yes,PhD,No
+EMP9194,Engineering,Male,33,13.8,1793000.0,5,3,No,No,Bachelor's,No
+EMP9195,HR,Female,25,8.0,1099000.0,3,4,No,No,Master's,No
+EMP9196,Sales,Male,57,5.4,443000.0,3,2,Yes,Yes,Bachelor's,No
+EMP9197,Marketing,Male,36,6.9,2027000.0,5,2,No,No,Bachelor's,No
+EMP9198,Marketing,Female,45,6.2,918000.0,5,5,Yes,Yes,PhD,No
+EMP9199,Finance,Female,31,3.1,419000.0,4,2,Yes,Yes,Bachelor's,No
+EMP9200,Operations,Female,27,7.1,1259000.0,3,3,No,No,Bachelor's,No
+EMP9201,Customer Support,Male,21,11.5,1761000.0,1,2,Yes,Yes,Master's,Yes
+EMP9202,Sales,Female,23,3.6,1684000.0,4,1,No,No,Master's,No
+EMP9203,Operations,Female,37,14.9,1506000.0,5,2,No,No,Bachelor's,No
+EMP9204,Marketing,Female,51,8.3,1451000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9205,Finance,Male,54,6.0,1744000.0,1,2,No,Yes,Bachelor's,No
+EMP9206,Operations,Male,34,10.6,1244000.0,2,2,No,No,Master's,Yes
+EMP9207,Marketing,Female,34,11.4,838000.0,2,4,Yes,Yes,Bachelor's,No
+EMP9208,Engineering,Female,51,5.5,482000.0,1,2,No,No,Master's,No
+EMP9209,HR,Male,36,10.4,1051000.0,2,4,No,No,Bachelor's,No
+EMP9210,Customer Support,Female,28,0.7,545000.0,3,2,Yes,No,Bachelor's,No
+EMP9211,Engineering,Female,46,12.2,593000.0,5,2,No,No,Bachelor's,No
+EMP9212,Customer Support,Male,41,14.2,1661000.0,5,5,Yes,No,Bachelor's,No
+EMP9213,Engineering,Male,27,7.2,1887000.0,5,2,No,No,Master's,No
+EMP9214,Finance,Male,39,1.7,658000.0,4,1,Yes,Yes,Master's,No
+EMP9215,Sales,Female,44,3.5,1259000.0,4,3,No,Yes,Bachelor's,No
+EMP9216,Sales,Female,57,4.1,1723000.0,4,5,No,Yes,Bachelor's,No
+EMP9217,Operations,Male,45,14.1,1401000.0,1,4,No,No,Master's,No
+EMP9218,Sales,Female,30,4.4,372000.0,2,1,No,Yes,Bachelor's,No
+EMP9219,Marketing,Female,22,1.2,1543000.0,1,5,No,No,Master's,No
+EMP9220,Operations,Male,24,9.0,767000.0,4,4,Yes,No,Bachelor's,No
+EMP9221,Operations,Female,50,4.5,1985000.0,1,4,No,Yes,Bachelor's,No
+EMP9222,Marketing,Female,22,4.0,1893000.0,1,1,No,No,Master's,Yes
+EMP9223,Marketing,Female,53,9.2,1349000.0,3,4,No,No,Master's,No
+EMP9224,Engineering,Female,45,8.0,920000.0,2,5,Yes,No,Master's,No
+EMP9225,Customer Support,Male,36,12.1,1733000.0,1,2,No,No,Master's,No
+EMP9226,Sales,Male,26,3.2,1034000.0,5,2,No,Yes,Master's,No
+EMP9227,Customer Support,Female,42,9.2,2046000.0,2,5,Yes,No,Bachelor's,No
+EMP9228,Customer Support,Female,26,12.6,1512000.0,1,5,No,No,Bachelor's,Yes
+EMP9229,Marketing,Female,47,10.8,609000.0,1,5,Yes,No,Master's,No
+EMP9230,Sales,Male,44,6.4,865000.0,5,2,Yes,Yes,Master's,No
+EMP9231,Customer Support,Female,47,11.7,1960000.0,2,3,No,No,Diploma,Yes
+EMP9232,Operations,Male,49,10.1,1468000.0,3,5,No,Yes,Bachelor's,No
+EMP9233,Customer Support,Female,26,13.1,1952000.0,2,5,Yes,No,Master's,No
+EMP9234,HR,Male,54,9.8,1981000.0,3,4,No,No,Bachelor's,No
+EMP9235,Customer Support,Female,45,4.6,921000.0,5,4,No,Yes,Master's,No
+EMP9236,Sales,Male,32,3.4,1406000.0,1,1,Yes,Yes,Bachelor's,No
+EMP9237,Sales,Female,29,5.4,1920000.0,1,1,No,No,Bachelor's,No
+EMP9238,Customer Support,Male,53,2.4,409000.0,5,1,Yes,Yes,Diploma,Yes
+EMP9239,Marketing,Female,27,11.8,1695000.0,5,3,No,No,Bachelor's,No
+EMP9240,Marketing,Male,36,6.7,1472000.0,1,5,No,Yes,PhD,No
+EMP9241,Operations,Male,39,8.6,965000.0,1,5,No,No,Master's,Yes
+EMP9242,Marketing,Female,26,9.4,991000.0,1,4,No,No,Bachelor's,No
+EMP9243,Sales,Female,42,6.0,649000.0,3,2,No,No,PhD,No
+EMP9244,Engineering,Female,49,3.1,496000.0,1,4,No,No,Bachelor's,No
+EMP9245,Customer Support,Male,50,6.6,2174000.0,3,1,No,No,Bachelor's,No
+EMP9246,Operations,Female,42,2.5,1834000.0,1,5,No,No,Bachelor's,No
+EMP9247,Customer Support,Male,33,6.7,1088000.0,2,1,No,No,Bachelor's,No
+EMP9248,Marketing,Male,48,11.9,1116000.0,4,3,No,No,Bachelor's,No
+EMP9249,Finance,Male,55,0.8,746000.0,3,1,No,Yes,Master's,No
+EMP9250,Operations,Female,30,0.9,627000.0,3,4,No,Yes,Diploma,Yes
+EMP9251,Sales,Female,54,11.4,994000.0,2,5,No,Yes,Master's,No
+EMP9252,Customer Support,Female,32,10.8,1225000.0,4,5,No,No,Bachelor's,No
+EMP9253,Marketing,Male,40,12.9,2006000.0,3,1,No,No,Bachelor's,Yes
+EMP9254,Engineering,Male,48,13.8,1419000.0,1,4,No,Yes,Diploma,No
+EMP9255,Operations,Male,34,0.9,1422000.0,3,1,No,No,Bachelor's,No
+EMP9256,Operations,Male,43,11.6,1374000.0,1,4,No,No,Master's,No
+EMP9257,Customer Support,Female,52,3.7,1262000.0,4,2,No,No,Bachelor's,No
+EMP9258,Customer Support,Female,55,14.4,1932000.0,4,4,Yes,Yes,Bachelor's,No
+EMP9259,Operations,Female,53,14.1,1267000.0,5,4,No,No,Bachelor's,No
+EMP9260,Engineering,Female,30,13.0,1260000.0,5,5,Yes,No,Master's,Yes
+EMP9261,Marketing,Female,24,4.6,639000.0,1,5,No,Yes,Bachelor's,No
+EMP9262,Marketing,Male,25,9.7,1962000.0,1,1,No,No,Bachelor's,No
+EMP9263,Finance,Female,28,4.2,951000.0,1,2,No,No,Bachelor's,No
+EMP9264,Customer Support,Female,49,7.2,2196000.0,3,5,No,No,Bachelor's,No
+EMP9265,HR,Male,50,4.7,1554000.0,1,3,No,No,Master's,Yes
+EMP9266,Operations,Male,47,7.6,1128000.0,3,3,No,Yes,Master's,No
+EMP9267,Sales,Male,57,7.7,1700000.0,5,5,No,No,PhD,No
+EMP9268,HR,Female,34,10.4,1134000.0,4,5,No,Yes,Master's,No
+EMP9269,Operations,Female,52,12.2,2142000.0,1,1,No,Yes,Master's,No
+EMP9270,Marketing,Male,44,3.1,2183000.0,1,2,No,No,Master's,No
+EMP9271,Customer Support,Male,49,13.0,1614000.0,4,2,No,Yes,Master's,No
+EMP9272,HR,Female,53,8.0,1253000.0,4,2,No,No,Master's,No
+EMP9273,Marketing,Male,57,1.0,934000.0,1,3,Yes,No,Bachelor's,Yes
+EMP9274,Engineering,Female,35,14.6,1778000.0,4,3,No,No,Master's,No
+EMP9275,Customer Support,Male,46,12.4,430000.0,5,1,No,No,Bachelor's,Yes
+EMP9276,HR,Female,49,3.9,1734000.0,2,5,Yes,Yes,Bachelor's,No
+EMP9277,HR,Female,41,11.5,343000.0,5,3,Yes,No,Bachelor's,No
+EMP9278,Operations,Female,56,9.8,1172000.0,1,1,Yes,Yes,Bachelor's,Yes
+EMP9279,Engineering,Male,28,3.8,1708000.0,5,3,Yes,No,Bachelor's,No
+EMP9280,HR,Female,53,11.3,1246000.0,2,3,Yes,Yes,Bachelor's,Yes
+EMP9281,Operations,Male,28,0.5,2090000.0,5,2,No,Yes,PhD,No
+EMP9282,HR,Female,39,12.4,1126000.0,1,1,Yes,No,Master's,Yes
+EMP9283,Customer Support,Male,25,5.9,524000.0,5,5,Yes,No,Bachelor's,No
+EMP9284,Sales,Female,54,6.7,983000.0,3,5,Yes,No,Bachelor's,No
+EMP9285,Engineering,Male,30,11.2,561000.0,4,5,Yes,Yes,Bachelor's,No
+EMP9286,Finance,Female,26,1.1,1803000.0,1,1,No,No,Bachelor's,No
+EMP9287,Finance,Female,29,0.7,2141000.0,5,3,No,Yes,Bachelor's,No
+EMP9288,HR,Male,43,13.2,586000.0,3,4,No,No,Bachelor's,No
+EMP9289,Operations,Female,31,4.7,1157000.0,5,1,No,No,Master's,No
+EMP9290,Engineering,Male,47,13.8,739000.0,2,3,No,No,Bachelor's,Yes
+EMP9291,Finance,Male,55,13.8,948000.0,3,3,No,Yes,PhD,No
+EMP9292,Engineering,Female,57,8.2,1378000.0,4,4,No,Yes,Bachelor's,No
+EMP9293,Marketing,Male,34,7.7,592000.0,1,1,No,No,Master's,No
+EMP9294,Operations,Female,28,10.0,1347000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9295,Finance,Female,29,11.1,891000.0,5,3,No,Yes,Master's,No
+EMP9296,Operations,Female,44,9.0,1054000.0,5,5,Yes,No,Diploma,No
+EMP9297,Marketing,Female,21,7.8,1249000.0,4,3,No,Yes,Master's,No
+EMP9298,Customer Support,Male,26,13.7,1071000.0,3,5,No,Yes,Bachelor's,No
+EMP9299,Finance,Male,54,4.3,2193000.0,1,5,Yes,No,Bachelor's,No
+EMP9300,Customer Support,Male,31,0.9,1898000.0,4,1,No,No,Master's,No
+EMP9301,Finance,Female,34,12.7,1172000.0,5,1,No,Yes,Bachelor's,No
+EMP9302,HR,Male,28,12.0,1432000.0,1,5,Yes,Yes,Master's,No
+EMP9303,Marketing,Female,51,9.6,1390000.0,5,3,No,No,Master's,No
+EMP9304,Sales,Female,36,14.5,306000.0,5,2,No,No,Bachelor's,No
+EMP9305,Sales,Female,48,14.6,1536000.0,3,5,Yes,Yes,Master's,Yes
+EMP9306,Sales,Female,35,4.9,426000.0,5,5,No,No,Bachelor's,Yes
+EMP9307,HR,Female,21,1.2,833000.0,4,4,No,Yes,Bachelor's,No
+EMP9308,Sales,Male,41,8.9,953000.0,5,5,No,Yes,Bachelor's,No
+EMP9309,Customer Support,Female,31,4.9,380000.0,1,2,Yes,Yes,Bachelor's,Yes
+EMP9310,Engineering,Male,50,1.8,1755000.0,4,1,No,No,Bachelor's,No
+EMP9311,Marketing,Male,48,4.9,498000.0,4,2,No,No,Bachelor's,No
+EMP9312,Operations,Female,57,9.7,830000.0,1,5,No,No,Master's,No
+EMP9313,Operations,Female,30,9.6,1805000.0,4,5,No,No,Bachelor's,No
+EMP9314,Engineering,Male,54,11.1,316000.0,3,3,Yes,Yes,Master's,Yes
+EMP9315,Operations,Female,52,14.5,647000.0,1,5,Yes,No,Master's,No
+EMP9316,Finance,Female,32,3.2,1925000.0,5,1,Yes,No,Bachelor's,Yes
+EMP9317,Engineering,Female,37,11.8,1820000.0,2,4,No,No,Bachelor's,No
+EMP9318,Customer Support,Male,51,10.4,2128000.0,3,1,No,No,Master's,No
+EMP9319,HR,Female,38,13.9,1007000.0,3,5,No,No,Bachelor's,No
+EMP9320,Engineering,Male,54,14.1,468000.0,5,4,No,No,Bachelor's,No
+EMP9321,Sales,Female,24,2.7,534000.0,5,4,No,No,Master's,No
+EMP9322,Operations,Male,53,5.3,1891000.0,1,5,No,Yes,Bachelor's,No
+EMP9323,Finance,Female,32,10.7,1428000.0,5,3,Yes,Yes,Diploma,No
+EMP9324,Finance,Female,51,10.8,444000.0,4,5,Yes,Yes,Master's,No
+EMP9325,Finance,Female,23,6.9,1531000.0,3,2,No,Yes,PhD,No
+EMP9326,Finance,Male,56,12.8,2193000.0,4,1,Yes,No,Master's,No
+EMP9327,Marketing,Male,55,3.0,1395000.0,2,1,Yes,Yes,Master's,Yes
+EMP9328,Marketing,Female,21,0.6,1899000.0,5,4,Yes,Yes,Master's,No
+EMP9329,Engineering,Male,48,5.8,1379000.0,1,1,No,Yes,Master's,No
+EMP9330,Operations,Female,31,4.3,347000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9331,Finance,Male,50,6.4,1359000.0,2,2,Yes,No,Master's,No
+EMP9332,Finance,Male,35,11.5,304000.0,3,1,No,No,Bachelor's,Yes
+EMP9333,Finance,Female,43,9.7,978000.0,3,3,No,No,Bachelor's,No
+EMP9334,Marketing,Female,42,2.1,301000.0,2,5,No,Yes,Master's,No
+EMP9335,Sales,Female,53,0.4,2036000.0,2,4,No,Yes,Bachelor's,No
+EMP9336,Sales,Male,40,7.7,882000.0,4,4,Yes,No,Diploma,Yes
+EMP9337,Finance,Female,23,11.9,657000.0,2,3,No,Yes,Bachelor's,No
+EMP9338,Sales,Male,38,11.3,1127000.0,2,2,No,No,Bachelor's,No
+EMP9339,Marketing,Male,56,4.3,802000.0,2,2,Yes,Yes,Master's,Yes
+EMP9340,Operations,Male,21,3.7,1955000.0,2,2,No,No,Diploma,No
+EMP9341,Engineering,Male,28,2.1,2197000.0,4,4,No,No,Bachelor's,No
+EMP9342,HR,Male,28,8.9,1185000.0,5,3,Yes,Yes,Master's,No
+EMP9343,Sales,Male,29,3.2,2062000.0,5,3,Yes,Yes,Master's,No
+EMP9344,Marketing,Male,25,9.9,1070000.0,4,2,Yes,Yes,Bachelor's,No
+EMP9345,Marketing,Female,22,9.9,1962000.0,2,1,Yes,No,Master's,No
+EMP9346,Customer Support,Male,30,11.0,1682000.0,5,1,Yes,Yes,Bachelor's,No
+EMP9347,Engineering,Male,31,0.6,736000.0,2,4,No,Yes,Bachelor's,Yes
+EMP9348,Operations,Male,39,10.2,620000.0,4,2,Yes,No,Master's,No
+EMP9349,HR,Female,51,14.3,1036000.0,1,1,No,Yes,Bachelor's,No
+EMP9350,Sales,Female,34,9.7,935000.0,2,3,No,No,Bachelor's,Yes
+EMP9351,Operations,Male,26,9.4,884000.0,3,4,No,No,Master's,No
+EMP9352,Operations,Male,51,13.7,2078000.0,4,5,No,No,Bachelor's,No
+EMP9353,Customer Support,Male,48,12.7,1789000.0,5,1,No,No,Bachelor's,No
+EMP9354,Engineering,Male,55,10.8,506000.0,3,2,Yes,Yes,Master's,No
+EMP9355,Engineering,Male,48,12.4,324000.0,1,1,No,No,Master's,No
+EMP9356,Operations,Male,37,11.9,907000.0,5,5,No,No,Master's,Yes
+EMP9357,Customer Support,Male,48,2.6,698000.0,1,2,No,No,Master's,No
+EMP9358,Sales,Female,36,4.2,624000.0,3,1,No,Yes,Bachelor's,No
+EMP9359,HR,Female,39,11.6,684000.0,2,4,Yes,No,Master's,No
+EMP9360,Finance,Male,46,8.6,1403000.0,4,3,No,No,Master's,No
+EMP9361,Marketing,Female,31,3.0,322000.0,4,1,Yes,No,Master's,Yes
+EMP9362,Engineering,Male,52,14.8,1181000.0,5,5,Yes,Yes,Bachelor's,No
+EMP9363,Sales,Female,50,12.0,1282000.0,4,3,Yes,Yes,Master's,No
+EMP9364,Marketing,Female,27,7.5,404000.0,4,3,Yes,Yes,Master's,Yes
+EMP9365,Engineering,Female,52,0.4,1530000.0,4,2,Yes,No,Master's,Yes
+EMP9366,Operations,Female,39,10.8,1890000.0,3,5,No,Yes,Bachelor's,No
+EMP9367,Engineering,Female,23,3.1,1157000.0,2,1,Yes,No,Master's,No
+EMP9368,Customer Support,Male,31,9.5,1419000.0,3,3,No,No,Bachelor's,No
+EMP9369,Finance,Male,43,2.3,1560000.0,2,5,No,Yes,Diploma,No
+EMP9370,Finance,Male,35,9.2,1193000.0,5,4,Yes,Yes,Bachelor's,No
+EMP9371,Sales,Male,25,8.6,1724000.0,4,5,No,No,Master's,No
+EMP9372,Customer Support,Male,40,11.3,2015000.0,5,5,Yes,Yes,Master's,No
+EMP9373,Operations,Male,39,11.2,955000.0,2,3,No,Yes,Bachelor's,No
+EMP9374,Finance,Female,43,5.8,793000.0,3,2,No,No,Bachelor's,No
+EMP9375,Operations,Female,30,1.9,2156000.0,2,5,Yes,No,PhD,No
+EMP9376,Engineering,Male,41,4.5,696000.0,5,4,No,No,Master's,No
+EMP9377,Sales,Male,28,1.9,708000.0,1,4,No,No,Master's,No
+EMP9378,Sales,Female,40,7.7,1124000.0,1,2,No,No,Bachelor's,No
+EMP9379,Finance,Male,47,3.1,521000.0,2,1,No,No,Master's,No
+EMP9380,Customer Support,Female,54,10.1,1638000.0,1,1,No,Yes,Bachelor's,Yes
+EMP9381,Engineering,Male,26,4.3,2001000.0,3,1,No,No,Master's,No
+EMP9382,Marketing,Female,45,12.7,364000.0,5,5,Yes,No,Master's,Yes
+EMP9383,Customer Support,Male,37,12.7,640000.0,5,4,No,No,Bachelor's,No
+EMP9384,HR,Male,22,10.9,738000.0,4,5,Yes,No,Bachelor's,No
+EMP9385,Operations,Male,22,9.3,2198000.0,5,1,No,Yes,Master's,No
+EMP9386,Sales,Female,43,5.8,1048000.0,2,2,No,No,Bachelor's,No
+EMP9387,Operations,Female,29,10.7,1669000.0,3,1,Yes,Yes,Bachelor's,No
+EMP9388,Engineering,Male,38,10.0,967000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9389,Finance,Female,56,11.6,683000.0,3,5,No,Yes,Bachelor's,No
+EMP9390,Operations,Female,53,14.0,1491000.0,3,2,Yes,No,Master's,No
+EMP9391,Customer Support,Female,32,1.7,1827000.0,5,2,Yes,No,Master's,No
+EMP9392,Customer Support,Male,49,4.6,1122000.0,2,3,Yes,No,Master's,No
+EMP9393,Finance,Male,38,13.8,1840000.0,2,2,No,Yes,Bachelor's,No
+EMP9394,Sales,Female,22,9.5,2028000.0,5,3,No,No,Bachelor's,No
+EMP9395,Operations,Female,37,6.3,729000.0,3,4,No,Yes,Bachelor's,No
+EMP9396,Marketing,Female,36,1.8,751000.0,2,2,No,No,Master's,No
+EMP9397,Customer Support,Female,24,7.0,2009000.0,1,4,No,No,Bachelor's,Yes
+EMP9398,Finance,Male,25,11.8,1758000.0,5,2,No,No,Bachelor's,No
+EMP9399,Marketing,Male,45,2.2,651000.0,3,2,No,No,Bachelor's,No
+EMP9400,Finance,Female,30,14.2,2110000.0,3,5,Yes,Yes,Bachelor's,No
+EMP9401,Customer Support,Male,33,9.4,559000.0,1,3,Yes,Yes,Master's,Yes
+EMP9402,Sales,Female,34,10.7,1081000.0,2,3,No,No,Master's,No
+EMP9403,Sales,Female,41,2.8,688000.0,1,2,Yes,No,Bachelor's,Yes
+EMP9404,Customer Support,Male,26,0.5,1365000.0,1,3,No,No,Bachelor's,No
+EMP9405,Sales,Male,25,10.1,708000.0,4,3,Yes,Yes,PhD,No
+EMP9406,Marketing,Male,33,12.1,541000.0,5,1,No,No,Bachelor's,No
+EMP9407,HR,Male,28,12.1,1801000.0,4,4,No,No,Bachelor's,Yes
+EMP9408,Sales,Male,23,4.6,1749000.0,5,3,No,No,Bachelor's,No
+EMP9409,Operations,Female,48,9.3,2104000.0,1,3,No,No,Bachelor's,No
+EMP9410,Engineering,Female,41,1.6,662000.0,4,3,Yes,Yes,Bachelor's,Yes
+EMP9411,Marketing,Male,40,9.7,1681000.0,1,3,No,Yes,Bachelor's,Yes
+EMP9412,Sales,Female,42,4.1,2072000.0,5,5,No,Yes,Bachelor's,No
+EMP9413,Operations,Female,48,12.8,847000.0,4,1,No,No,Master's,No
+EMP9414,Marketing,Male,50,5.1,1755000.0,5,4,No,Yes,Diploma,No
+EMP9415,Engineering,Female,41,10.2,1760000.0,4,1,No,Yes,Bachelor's,No
+EMP9416,Operations,Male,39,9.9,474000.0,1,3,No,No,Bachelor's,No
+EMP9417,Operations,Male,43,0.7,753000.0,3,3,Yes,No,Master's,No
+EMP9418,Operations,Female,46,6.7,1329000.0,2,4,No,No,Bachelor's,Yes
+EMP9419,Finance,Female,42,7.7,1916000.0,2,3,Yes,No,Bachelor's,Yes
+EMP9420,Finance,Female,50,5.6,1116000.0,2,1,No,No,Bachelor's,No
+EMP9421,Finance,Male,39,10.8,317000.0,4,3,No,Yes,Bachelor's,No
+EMP9422,Engineering,Male,46,8.5,1698000.0,5,1,No,No,Master's,No
+EMP9423,Customer Support,Male,39,2.7,542000.0,2,3,No,Yes,Master's,Yes
+EMP9424,Finance,Male,40,11.8,945000.0,4,2,No,No,Bachelor's,No
+EMP9425,Sales,Female,51,7.2,1888000.0,5,2,No,No,Diploma,No
+EMP9426,Customer Support,Male,57,13.8,804000.0,4,4,No,No,Bachelor's,No
+EMP9427,Marketing,Male,53,4.9,1693000.0,5,1,No,No,Diploma,Yes
+EMP9428,Finance,Male,40,7.7,2086000.0,1,4,No,No,Bachelor's,Yes
+EMP9429,Engineering,Female,22,11.4,2014000.0,4,4,No,No,Master's,No
+EMP9430,Customer Support,Male,24,12.7,349000.0,2,5,Yes,Yes,PhD,No
+EMP9431,Engineering,Male,32,12.4,1302000.0,5,5,Yes,No,Bachelor's,No
+EMP9432,Engineering,Female,56,9.7,336000.0,1,4,Yes,No,Bachelor's,Yes
+EMP9433,Customer Support,Female,48,7.0,1614000.0,1,3,Yes,No,Diploma,Yes
+EMP9434,Marketing,Female,50,5.1,644000.0,3,5,No,Yes,Master's,Yes
+EMP9435,Marketing,Female,24,11.5,759000.0,5,4,No,No,Bachelor's,No
+EMP9436,Operations,Male,38,5.0,1546000.0,5,5,No,No,Master's,No
+EMP9437,HR,Male,41,13.5,1908000.0,5,4,No,Yes,Bachelor's,No
+EMP9438,Sales,Male,38,3.4,1509000.0,5,4,Yes,No,Bachelor's,Yes
+EMP9439,Finance,Female,35,8.5,1795000.0,5,1,No,No,Bachelor's,Yes
+EMP9440,Finance,Male,36,10.9,1458000.0,1,1,No,No,Master's,No
+EMP9441,Operations,Female,22,2.0,1206000.0,4,5,No,Yes,PhD,No
+EMP9442,Finance,Male,44,10.8,1213000.0,2,2,No,Yes,Bachelor's,Yes
+EMP9443,Operations,Male,37,8.5,2029000.0,3,5,Yes,Yes,Bachelor's,No
+EMP9444,Finance,Male,51,1.8,1856000.0,3,1,No,No,Bachelor's,No
+EMP9445,Finance,Female,34,10.5,799000.0,4,1,No,Yes,Bachelor's,No
+EMP9446,Sales,Female,38,13.7,484000.0,4,5,No,No,Master's,No
+EMP9447,Customer Support,Female,29,14.7,1606000.0,1,3,No,No,Master's,No
+EMP9448,Operations,Female,32,4.8,1715000.0,5,4,No,No,Master's,No
+EMP9449,HR,Female,46,6.9,1799000.0,1,4,Yes,No,Bachelor's,Yes
+EMP9450,HR,Male,27,10.6,1305000.0,4,5,Yes,No,Bachelor's,No
+EMP9451,Sales,Female,34,0.9,1303000.0,3,1,No,Yes,PhD,Yes
+EMP9452,Marketing,Female,25,0.4,1269000.0,2,4,No,No,Bachelor's,No
+EMP9453,Operations,Female,38,1.4,1630000.0,3,4,No,No,Bachelor's,No
+EMP9454,Sales,Female,36,14.4,1737000.0,1,4,No,Yes,Master's,No
+EMP9455,Operations,Male,27,0.2,1046000.0,1,5,No,No,Bachelor's,Yes
+EMP9456,Sales,Male,35,10.3,1746000.0,4,5,No,No,Bachelor's,No
+EMP9457,HR,Female,54,12.4,476000.0,5,4,No,No,Master's,No
+EMP9458,Customer Support,Female,30,7.1,822000.0,1,5,No,No,Bachelor's,No
+EMP9459,Sales,Male,30,2.2,1870000.0,4,3,Yes,Yes,Master's,Yes
+EMP9460,Operations,Female,37,10.3,823000.0,2,5,No,Yes,Master's,No
+EMP9461,Marketing,Female,50,5.0,1299000.0,2,5,No,No,Bachelor's,No
+EMP9462,Sales,Male,22,15.0,1948000.0,4,3,No,Yes,Bachelor's,No
+EMP9463,Marketing,Female,23,2.6,657000.0,5,1,No,No,Master's,No
+EMP9464,Engineering,Male,30,11.5,482000.0,5,5,Yes,No,Master's,Yes
+EMP9465,Sales,Female,35,4.0,1353000.0,3,2,No,Yes,Master's,No
+EMP9466,Finance,Female,35,13.1,430000.0,5,1,Yes,No,Bachelor's,No
+EMP9467,Operations,Male,21,6.2,1289000.0,4,3,No,No,PhD,No
+EMP9468,Marketing,Female,49,1.8,482000.0,2,4,No,No,Bachelor's,Yes
+EMP9469,Engineering,Male,24,0.4,489000.0,5,1,Yes,No,Master's,No
+EMP9470,HR,Female,57,4.6,554000.0,2,2,Yes,Yes,Bachelor's,Yes
+EMP9471,Sales,Female,56,10.5,1388000.0,4,1,No,Yes,Bachelor's,No
+EMP9472,Operations,Female,30,9.6,495000.0,3,5,Yes,Yes,Bachelor's,Yes
+EMP9473,Operations,Female,55,14.8,1814000.0,1,4,No,Yes,Master's,No
+EMP9474,Marketing,Female,23,7.8,1906000.0,3,4,No,No,Master's,No
+EMP9475,Customer Support,Female,31,1.9,1870000.0,4,1,Yes,Yes,Bachelor's,No
+EMP9476,Marketing,Male,21,9.1,1864000.0,1,2,No,No,Bachelor's,No
+EMP9477,Customer Support,Female,29,10.1,1338000.0,2,1,No,No,Master's,No
+EMP9478,Sales,Female,34,9.5,2066000.0,5,2,Yes,No,Bachelor's,No
+EMP9479,HR,Male,40,6.0,855000.0,4,1,No,Yes,Master's,No
+EMP9480,HR,Male,29,3.9,1892000.0,4,5,No,No,Master's,No
+EMP9481,Finance,Male,41,0.5,1364000.0,2,4,No,Yes,Diploma,Yes
+EMP9482,HR,Female,51,14.4,574000.0,2,3,No,No,Bachelor's,No
+EMP9483,HR,Male,43,5.1,1962000.0,3,1,No,No,Master's,No
+EMP9484,Customer Support,Male,21,14.4,1392000.0,1,2,No,Yes,Bachelor's,Yes
+EMP9485,Sales,Male,54,6.2,831000.0,2,1,No,No,Master's,No
+EMP9486,Marketing,Female,56,9.5,835000.0,4,5,No,No,Bachelor's,No
+EMP9487,Marketing,Female,52,8.3,632000.0,4,2,Yes,No,Bachelor's,No
+EMP9488,Operations,Female,24,7.8,1499000.0,1,2,No,No,Bachelor's,No
+EMP9489,HR,Male,49,5.9,1164000.0,3,3,No,No,Bachelor's,No
+EMP9490,Customer Support,Male,42,3.8,1149000.0,5,1,No,No,PhD,Yes
+EMP9491,Sales,Male,40,4.4,1492000.0,2,2,No,Yes,Bachelor's,Yes
+EMP9492,Customer Support,Female,27,2.8,861000.0,3,1,No,No,Bachelor's,No
+EMP9493,Engineering,Male,36,11.6,989000.0,4,5,No,Yes,Master's,No
+EMP9494,HR,Female,52,6.9,1619000.0,4,1,No,Yes,Master's,No
+EMP9495,Engineering,Male,22,11.6,1957000.0,5,1,No,Yes,Bachelor's,No
+EMP9496,Finance,Male,38,13.0,1066000.0,4,5,No,No,Bachelor's,Yes
+EMP9497,Sales,Female,41,0.3,561000.0,4,5,No,No,Bachelor's,No
+EMP9498,Finance,Male,57,7.5,893000.0,3,3,No,No,Master's,No
+EMP9499,Sales,Female,23,0.7,1192000.0,3,4,No,Yes,Bachelor's,No
+EMP9500,HR,Male,46,10.3,1478000.0,2,5,No,No,Bachelor's,No
+EMP9501,Sales,Female,56,2.0,870000.0,4,5,Yes,No,Master's,No
+EMP9502,Operations,Female,28,13.0,1912000.0,2,5,Yes,Yes,Bachelor's,Yes
+EMP9503,Engineering,Male,49,11.0,325000.0,3,1,No,No,Bachelor's,No
+EMP9504,Marketing,Female,31,0.6,1367000.0,2,2,No,No,PhD,Yes
+EMP9505,Operations,Male,55,8.1,1887000.0,3,2,No,Yes,Master's,Yes
+EMP9506,Customer Support,Male,55,5.8,2075000.0,3,5,No,Yes,Bachelor's,No
+EMP9507,Marketing,Female,28,14.9,1610000.0,1,2,No,No,Bachelor's,Yes
+EMP9508,Marketing,Female,52,1.5,2051000.0,2,3,Yes,Yes,Bachelor's,Yes
+EMP9509,Sales,Female,47,2.2,1375000.0,2,2,Yes,Yes,Master's,No
+EMP9510,Finance,Male,30,12.5,1040000.0,2,1,No,Yes,Master's,No
+EMP9511,Finance,Male,55,7.8,1402000.0,1,4,No,No,Bachelor's,No
+EMP9512,Sales,Female,46,11.7,316000.0,3,1,No,No,Diploma,No
+EMP9513,Marketing,Female,29,4.2,1398000.0,5,2,Yes,Yes,Master's,No
+EMP9514,Sales,Female,24,4.6,1846000.0,3,3,No,No,Master's,No
+EMP9515,Customer Support,Male,27,6.8,1247000.0,2,3,Yes,Yes,Bachelor's,No
+EMP9516,Operations,Female,24,2.0,1730000.0,1,4,Yes,Yes,Master's,Yes
+EMP9517,Marketing,Female,37,5.4,1485000.0,2,4,No,No,Bachelor's,No
+EMP9518,Sales,Female,56,10.5,1152000.0,5,3,Yes,No,Master's,No
+EMP9519,Operations,Female,29,14.6,484000.0,5,5,No,No,Diploma,No
+EMP9520,HR,Male,23,3.5,1292000.0,4,5,No,Yes,Master's,No
+EMP9521,Marketing,Male,51,13.1,2107000.0,4,3,Yes,No,PhD,Yes
+EMP9522,Marketing,Female,44,13.3,1182000.0,2,1,No,No,Master's,Yes
+EMP9523,Engineering,Male,49,10.9,842000.0,2,3,Yes,Yes,Bachelor's,Yes
+EMP9524,Finance,Female,42,5.8,1781000.0,1,4,Yes,No,Master's,Yes
+EMP9525,Finance,Male,29,13.8,1795000.0,3,4,Yes,Yes,Master's,No
+EMP9526,Marketing,Female,56,14.7,795000.0,3,3,Yes,No,Bachelor's,No
+EMP9527,HR,Female,25,7.6,1897000.0,2,4,No,Yes,Bachelor's,No
+EMP9528,Marketing,Female,23,3.8,1424000.0,5,1,No,No,Bachelor's,No
+EMP9529,Sales,Female,39,8.1,1947000.0,4,5,No,No,Master's,No
+EMP9530,Engineering,Female,35,11.5,833000.0,3,3,No,No,Bachelor's,No
+EMP9531,Engineering,Female,43,4.2,1825000.0,2,1,No,Yes,Bachelor's,No
+EMP9532,Customer Support,Female,31,13.6,2088000.0,2,1,No,Yes,Bachelor's,No
+EMP9533,Sales,Male,49,3.1,406000.0,5,2,No,No,Bachelor's,No
+EMP9534,Finance,Female,39,3.5,2024000.0,3,4,No,No,Bachelor's,No
+EMP9535,Finance,Male,39,7.1,1721000.0,5,3,No,No,Master's,No
+EMP9536,HR,Female,41,13.5,1790000.0,1,3,No,Yes,Bachelor's,No
+EMP9537,Marketing,Male,30,11.2,576000.0,1,1,Yes,Yes,Bachelor's,Yes
+EMP9538,Customer Support,Female,49,6.5,2048000.0,1,4,No,Yes,Master's,Yes
+EMP9539,Operations,Female,37,7.2,702000.0,5,3,No,Yes,Bachelor's,No
+EMP9540,Sales,Female,57,5.1,2110000.0,1,4,Yes,No,Master's,Yes
+EMP9541,Sales,Male,30,9.2,1237000.0,3,1,No,No,PhD,No
+EMP9542,Customer Support,Male,25,4.2,814000.0,3,5,No,No,Bachelor's,No
+EMP9543,Finance,Male,47,0.3,1251000.0,5,5,No,Yes,Bachelor's,No
+EMP9544,Finance,Female,41,8.0,518000.0,3,5,No,Yes,Bachelor's,No
+EMP9545,Finance,Female,22,7.4,631000.0,3,2,No,Yes,Master's,No
+EMP9546,HR,Female,23,7.0,854000.0,4,1,No,No,Diploma,No
+EMP9547,HR,Female,34,6.8,2046000.0,2,3,No,Yes,Bachelor's,No
+EMP9548,Sales,Female,31,14.5,850000.0,1,4,No,No,Bachelor's,Yes
+EMP9549,Operations,Female,28,11.9,1091000.0,4,3,No,Yes,Bachelor's,No
+EMP9550,Operations,Male,54,0.3,1345000.0,2,1,No,Yes,Master's,No
+EMP9551,Customer Support,Female,46,5.7,1982000.0,2,1,Yes,Yes,Bachelor's,No
+EMP9552,Sales,Female,44,11.8,848000.0,4,3,No,No,Bachelor's,No
+EMP9553,HR,Male,38,13.1,1580000.0,4,5,Yes,No,Master's,No
+EMP9554,Engineering,Female,52,11.8,712000.0,3,5,Yes,No,Master's,No
+EMP9555,Customer Support,Female,37,14.2,335000.0,5,1,No,Yes,Bachelor's,No
+EMP9556,Finance,Male,54,10.9,597000.0,4,2,Yes,No,Master's,Yes
+EMP9557,HR,Female,25,11.1,1928000.0,2,2,Yes,Yes,Bachelor's,Yes
+EMP9558,Operations,Female,36,0.5,1752000.0,4,5,No,No,Master's,No
+EMP9559,Customer Support,Male,49,7.3,540000.0,4,3,No,No,PhD,No
+EMP9560,Engineering,Male,54,3.4,2150000.0,3,5,No,Yes,Master's,No
+EMP9561,Operations,Female,37,11.5,457000.0,4,4,Yes,Yes,Bachelor's,No
+EMP9562,Customer Support,Female,37,3.2,2045000.0,2,2,No,No,Bachelor's,No
+EMP9563,Sales,Male,44,14.7,1229000.0,1,4,No,No,PhD,No
+EMP9564,HR,Female,44,12.5,1481000.0,5,3,No,Yes,Bachelor's,No
+EMP9565,Customer Support,Female,33,14.5,1024000.0,5,5,No,No,Master's,No
+EMP9566,Finance,Male,38,1.0,807000.0,2,3,No,Yes,Master's,Yes
+EMP9567,HR,Female,53,10.9,505000.0,3,3,Yes,Yes,PhD,Yes
+EMP9568,Operations,Male,50,7.8,2080000.0,5,1,No,Yes,Diploma,No
+EMP9569,Operations,Female,36,8.9,593000.0,1,2,No,No,Master's,Yes
+EMP9570,Customer Support,Male,48,14.7,1497000.0,4,4,Yes,No,Bachelor's,No
+EMP9571,Engineering,Female,55,9.8,702000.0,2,2,No,Yes,Bachelor's,No
+EMP9572,Engineering,Male,51,0.8,1956000.0,1,2,No,Yes,Master's,No
+EMP9573,Marketing,Male,24,9.9,809000.0,5,1,No,No,Master's,No
+EMP9574,HR,Female,38,0.4,766000.0,4,4,Yes,Yes,Bachelor's,No
+EMP9575,Sales,Male,36,4.8,700000.0,2,4,Yes,No,Bachelor's,No
+EMP9576,Operations,Male,24,0.9,653000.0,3,2,No,No,Bachelor's,No
+EMP9577,Marketing,Female,42,6.7,951000.0,2,3,Yes,Yes,Master's,Yes
+EMP9578,Engineering,Female,54,13.5,1599000.0,5,2,No,No,Master's,No
+EMP9579,Customer Support,Female,56,1.2,780000.0,4,4,No,Yes,Master's,No
+EMP9580,Marketing,Female,38,4.3,2176000.0,2,1,No,Yes,Bachelor's,No
+EMP9581,Finance,Female,21,3.2,347000.0,5,3,No,No,Master's,No
+EMP9582,Sales,Female,52,13.1,988000.0,3,5,No,Yes,Master's,No
+EMP9583,Engineering,Male,53,9.9,426000.0,3,3,No,No,Bachelor's,Yes
+EMP9584,Marketing,Male,36,11.1,1591000.0,1,1,No,No,Master's,No
+EMP9585,Sales,Male,40,13.1,1458000.0,5,1,No,No,Bachelor's,No
+EMP9586,Engineering,Male,49,11.8,1257000.0,4,4,No,Yes,Bachelor's,No
+EMP9587,Finance,Male,56,4.2,1872000.0,2,1,No,No,Bachelor's,No
+EMP9588,Finance,Male,30,11.0,1049000.0,3,3,No,No,Bachelor's,No
+EMP9589,HR,Male,57,3.1,2084000.0,3,1,Yes,No,Bachelor's,No
+EMP9590,Marketing,Female,34,1.5,885000.0,5,4,No,No,Bachelor's,No
+EMP9591,Finance,Female,22,5.0,779000.0,5,1,No,Yes,PhD,No
+EMP9592,Finance,Male,38,4.2,516000.0,5,3,No,No,Master's,No
+EMP9593,Customer Support,Male,51,11.4,1843000.0,5,3,No,No,Master's,No
+EMP9594,HR,Female,28,10.1,592000.0,3,2,Yes,No,Diploma,No
+EMP9595,Finance,Male,49,2.6,1904000.0,2,4,Yes,Yes,Master's,Yes
+EMP9596,Finance,Male,26,12.8,1274000.0,5,5,Yes,No,Bachelor's,No
+EMP9597,HR,Male,56,8.6,1681000.0,5,1,No,No,Master's,No
+EMP9598,Customer Support,Female,31,14.2,326000.0,5,1,Yes,No,Master's,Yes
+EMP9599,Engineering,Female,26,10.4,605000.0,1,2,Yes,Yes,PhD,No
+EMP9600,Customer Support,Male,46,7.4,1858000.0,4,4,No,No,Bachelor's,No
+EMP9601,Customer Support,Female,55,5.1,1871000.0,5,2,No,Yes,Master's,No
+EMP9602,HR,Male,27,10.5,1225000.0,5,3,No,No,Bachelor's,No
+EMP9603,Sales,Male,54,10.7,429000.0,2,3,No,No,Diploma,Yes
+EMP9604,HR,Male,25,10.2,1305000.0,1,2,Yes,Yes,Diploma,No
+EMP9605,Engineering,Female,40,6.4,1678000.0,3,5,No,Yes,Master's,No
+EMP9606,HR,Male,37,4.9,1658000.0,1,3,Yes,Yes,Bachelor's,No
+EMP9607,Operations,Female,27,7.0,2197000.0,5,5,No,No,Bachelor's,No
+EMP9608,Operations,Female,23,8.6,1459000.0,3,4,No,No,Master's,No
+EMP9609,Finance,Female,29,1.8,625000.0,5,3,No,Yes,Bachelor's,No
+EMP9610,HR,Female,57,2.4,604000.0,4,2,No,Yes,Bachelor's,No
+EMP9611,Engineering,Male,51,11.5,977000.0,4,2,No,No,Bachelor's,No
+EMP9612,Marketing,Female,54,12.3,1132000.0,2,5,Yes,No,Bachelor's,No
+EMP9613,Engineering,Female,49,5.8,1004000.0,3,3,No,No,Master's,No
+EMP9614,Finance,Male,22,9.1,2023000.0,3,3,No,No,Bachelor's,No
+EMP9615,Sales,Female,32,6.7,404000.0,5,2,No,No,Bachelor's,No
+EMP9616,Marketing,Female,42,4.4,1317000.0,4,5,Yes,No,Master's,Yes
+EMP9617,Sales,Male,48,8.1,2107000.0,5,4,No,Yes,Bachelor's,No
+EMP9618,Engineering,Female,57,4.9,1774000.0,5,2,Yes,Yes,Bachelor's,No
+EMP9619,Sales,Male,57,11.9,976000.0,1,3,Yes,No,Bachelor's,Yes
+EMP9620,Finance,Male,41,1.5,1325000.0,4,3,No,No,Bachelor's,No
+EMP9621,Marketing,Male,45,6.0,886000.0,5,5,No,Yes,PhD,No
+EMP9622,Sales,Male,40,4.1,1550000.0,5,1,No,No,Diploma,No
+EMP9623,Customer Support,Female,31,10.9,1658000.0,5,1,No,Yes,Bachelor's,No
+EMP9624,Customer Support,Female,52,8.6,1111000.0,2,2,No,No,Master's,No
+EMP9625,Operations,Female,47,12.7,1180000.0,2,3,No,Yes,Master's,No
+EMP9626,Sales,Female,44,4.8,1601000.0,5,5,No,No,Master's,No
+EMP9627,Engineering,Female,30,12.4,1201000.0,1,5,No,No,Diploma,No
+EMP9628,Finance,Female,56,6.8,1492000.0,2,1,Yes,Yes,Bachelor's,No
+EMP9629,Marketing,Male,23,14.8,984000.0,2,5,Yes,No,Bachelor's,Yes
+EMP9630,Sales,Male,30,10.0,583000.0,2,1,No,No,Master's,No
+EMP9631,Customer Support,Female,27,12.0,1514000.0,2,3,No,No,Master's,No
+EMP9632,Sales,Female,51,12.6,706000.0,2,5,No,Yes,Master's,Yes
+EMP9633,Sales,Female,21,0.5,2126000.0,5,1,No,No,Bachelor's,No
+EMP9634,Sales,Male,32,3.6,624000.0,1,3,No,No,Bachelor's,No
+EMP9635,Engineering,Male,45,6.5,696000.0,3,2,No,No,Bachelor's,No
+EMP9636,Operations,Male,24,3.2,735000.0,5,3,No,Yes,Bachelor's,No
+EMP9637,Engineering,Female,22,0.6,1897000.0,2,1,Yes,Yes,Master's,Yes
+EMP9638,Customer Support,Male,34,9.4,1417000.0,4,2,No,No,Master's,No
+EMP9639,Customer Support,Female,47,1.2,603000.0,4,3,No,Yes,Master's,No
+EMP9640,Sales,Female,48,8.4,1327000.0,4,2,Yes,Yes,Master's,No
+EMP9641,Marketing,Male,33,5.9,1185000.0,1,5,No,No,Master's,Yes
+EMP9642,Engineering,Female,32,10.1,1186000.0,3,4,No,No,Master's,No
+EMP9643,Customer Support,Female,44,0.3,1578000.0,5,1,No,Yes,Master's,No
+EMP9644,Engineering,Female,27,1.0,1769000.0,1,5,No,No,Master's,Yes
+EMP9645,HR,Male,37,7.7,1194000.0,1,3,Yes,Yes,Master's,Yes
+EMP9646,Sales,Female,22,9.1,806000.0,4,4,Yes,No,PhD,No
+EMP9647,Customer Support,Male,49,4.1,763000.0,1,3,Yes,Yes,Bachelor's,No
+EMP9648,Customer Support,Female,41,0.8,1480000.0,5,3,Yes,Yes,Master's,Yes
+EMP9649,Finance,Female,40,14.3,1634000.0,5,3,No,Yes,PhD,Yes
+EMP9650,Sales,Male,42,7.6,2022000.0,2,2,Yes,No,Master's,No
+EMP9651,Marketing,Female,36,11.6,2080000.0,1,1,No,Yes,Diploma,Yes
+EMP9652,Operations,Female,51,14.8,1999000.0,3,2,Yes,No,Bachelor's,No
+EMP9653,Marketing,Male,49,1.0,1574000.0,4,1,No,No,Master's,No
+EMP9654,Sales,Male,26,2.4,390000.0,3,4,Yes,No,Bachelor's,No
+EMP9655,Marketing,Male,22,4.7,1280000.0,1,2,No,No,Bachelor's,No
+EMP9656,Finance,Female,50,9.3,640000.0,5,4,Yes,Yes,Bachelor's,Yes
+EMP9657,HR,Male,43,9.8,1729000.0,1,1,Yes,No,Master's,No
+EMP9658,Finance,Female,22,3.4,635000.0,2,4,No,No,Bachelor's,Yes
+EMP9659,Operations,Female,54,6.9,785000.0,3,4,No,No,Master's,No
+EMP9660,Marketing,Female,48,6.1,1955000.0,2,3,No,Yes,Bachelor's,No
+EMP9661,Marketing,Male,43,6.7,2092000.0,5,4,No,Yes,Bachelor's,No
+EMP9662,Customer Support,Female,46,6.4,1991000.0,1,3,No,No,Master's,No
+EMP9663,Customer Support,Female,37,7.7,1664000.0,1,3,No,No,Bachelor's,No
+EMP9664,HR,Female,37,8.8,1894000.0,4,2,No,Yes,Master's,No
+EMP9665,Sales,Male,50,10.4,2057000.0,5,3,No,No,Bachelor's,No
+EMP9666,Finance,Male,30,12.6,2029000.0,2,1,No,No,Bachelor's,No
+EMP9667,Finance,Female,23,10.8,1080000.0,5,4,Yes,No,Bachelor's,No
+EMP9668,Sales,Male,35,14.6,1037000.0,5,3,No,No,Bachelor's,No
+EMP9669,Marketing,Male,48,3.1,1185000.0,2,5,No,No,Bachelor's,No
+EMP9670,Sales,Female,50,7.8,439000.0,5,4,No,No,Master's,No
+EMP9671,Finance,Female,49,1.3,1221000.0,5,1,No,Yes,Master's,No
+EMP9672,Finance,Male,53,2.3,2010000.0,2,2,No,Yes,Bachelor's,No
+EMP9673,HR,Female,36,8.0,1846000.0,1,4,No,Yes,Master's,No
+EMP9674,HR,Female,22,3.2,323000.0,5,5,No,Yes,Master's,No
+EMP9675,HR,Male,39,7.0,309000.0,3,2,No,No,Bachelor's,No
+EMP9676,Marketing,Female,51,1.5,1825000.0,4,2,No,No,Bachelor's,No
+EMP9677,Sales,Male,36,2.6,1085000.0,2,2,Yes,Yes,Master's,Yes
+EMP9678,HR,Female,22,7.7,1415000.0,2,3,No,No,Bachelor's,Yes
+EMP9679,Engineering,Female,35,9.4,2144000.0,3,5,No,Yes,Bachelor's,No
+EMP9680,Customer Support,Female,49,5.8,1765000.0,2,3,Yes,Yes,Bachelor's,No
+EMP9681,Marketing,Female,46,9.7,606000.0,3,1,No,Yes,Bachelor's,No
+EMP9682,HR,Male,54,6.2,481000.0,2,3,Yes,No,Bachelor's,Yes
+EMP9683,Operations,Male,37,8.1,1813000.0,2,1,Yes,Yes,Master's,Yes
+EMP9684,Operations,Female,42,14.4,1978000.0,5,3,Yes,No,Diploma,No
+EMP9685,Operations,Male,45,4.9,556000.0,4,5,No,No,Bachelor's,Yes
+EMP9686,Finance,Male,56,9.9,1294000.0,1,3,No,No,Bachelor's,No
+EMP9687,Operations,Female,51,6.2,1543000.0,5,2,No,No,Master's,No
+EMP9688,Sales,Female,33,9.9,1742000.0,4,1,No,No,PhD,No
+EMP9689,Finance,Female,31,13.2,1437000.0,4,4,Yes,Yes,Bachelor's,No
+EMP9690,Operations,Female,26,12.4,2139000.0,2,2,No,No,Master's,No
+EMP9691,Engineering,Male,36,8.2,1665000.0,5,1,Yes,No,Master's,No
+EMP9692,Engineering,Male,48,12.9,500000.0,5,1,No,Yes,Bachelor's,No
+EMP9693,Operations,Male,24,10.3,1463000.0,4,1,No,Yes,Master's,No
+EMP9694,Engineering,Female,41,3.4,498000.0,4,4,No,No,Bachelor's,No
+EMP9695,Finance,Male,54,8.6,921000.0,4,2,No,No,Bachelor's,No
+EMP9696,Operations,Female,49,8.8,896000.0,4,3,Yes,No,Diploma,Yes
+EMP9697,Customer Support,Female,48,9.8,921000.0,5,5,No,No,Master's,No
+EMP9698,Finance,Male,56,2.4,1392000.0,5,2,No,No,Master's,No
+EMP9699,Engineering,Female,27,8.0,1050000.0,3,1,No,Yes,Bachelor's,No
+EMP9700,Finance,Male,36,13.8,1586000.0,5,1,No,Yes,PhD,No
+EMP9701,Sales,Female,42,14.3,369000.0,3,4,No,No,Master's,No
+EMP9702,Sales,Female,50,14.1,1837000.0,4,1,No,No,Bachelor's,No
+EMP9703,HR,Male,56,7.4,1370000.0,5,5,No,No,Master's,No
+EMP9704,HR,Male,26,1.2,637000.0,5,4,No,No,Master's,No
+EMP9705,Customer Support,Female,29,13.8,666000.0,4,2,No,Yes,PhD,Yes
+EMP9706,Operations,Male,23,1.8,421000.0,4,5,No,Yes,Bachelor's,No
+EMP9707,Customer Support,Female,24,12.3,1648000.0,3,1,Yes,No,Bachelor's,Yes
+EMP9708,Customer Support,Female,57,10.1,1085000.0,5,1,No,No,Bachelor's,No
+EMP9709,Sales,Male,22,1.3,1357000.0,2,2,No,No,Bachelor's,No
+EMP9710,Engineering,Male,21,1.1,812000.0,5,1,No,Yes,Bachelor's,No
+EMP9711,Operations,Female,35,14.7,870000.0,5,5,No,No,Bachelor's,No
+EMP9712,Finance,Female,32,12.7,1618000.0,4,1,Yes,No,Bachelor's,Yes
+EMP9713,Sales,Female,35,1.7,651000.0,2,4,No,No,PhD,No
+EMP9714,Operations,Male,34,7.6,1247000.0,3,1,Yes,No,Bachelor's,Yes
+EMP9715,Customer Support,Female,43,11.2,1055000.0,4,2,No,No,Bachelor's,No
+EMP9716,Engineering,Male,21,14.9,2117000.0,1,2,No,Yes,Bachelor's,No
+EMP9717,Marketing,Male,46,3.6,375000.0,4,5,Yes,No,Bachelor's,Yes
+EMP9718,Operations,Female,54,7.5,847000.0,5,4,No,No,Bachelor's,No
+EMP9719,HR,Male,31,12.3,339000.0,3,5,No,No,Bachelor's,No
+EMP9720,Customer Support,Male,22,5.8,1324000.0,4,4,Yes,No,Master's,Yes
+EMP9721,Customer Support,Female,42,8.4,1225000.0,4,5,No,No,Master's,No
+EMP9722,Finance,Female,35,2.8,990000.0,5,5,Yes,No,Bachelor's,No
+EMP9723,HR,Male,28,9.4,1490000.0,2,1,Yes,Yes,Bachelor's,Yes
+EMP9724,Operations,Male,24,10.1,1434000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9725,HR,Female,38,7.4,1889000.0,2,3,No,Yes,PhD,No
+EMP9726,Marketing,Female,29,2.8,962000.0,3,1,No,No,Master's,No
+EMP9727,Engineering,Male,22,1.1,995000.0,1,2,Yes,Yes,Bachelor's,Yes
+EMP9728,Sales,Male,28,7.2,2097000.0,3,5,No,No,Diploma,No
+EMP9729,Operations,Male,24,0.3,999000.0,2,3,No,Yes,Bachelor's,No
+EMP9730,Marketing,Male,49,5.9,1820000.0,4,5,Yes,No,Master's,No
+EMP9731,Marketing,Female,54,12.4,1509000.0,3,5,Yes,No,Master's,No
+EMP9732,HR,Male,45,10.9,2145000.0,1,1,No,No,Master's,Yes
+EMP9733,Finance,Male,34,10.8,704000.0,4,4,Yes,No,PhD,No
+EMP9734,Marketing,Male,50,1.1,585000.0,3,1,No,No,Master's,No
+EMP9735,Marketing,Female,24,9.8,1668000.0,4,5,No,Yes,Bachelor's,No
+EMP9736,Customer Support,Female,46,5.4,1475000.0,5,2,No,No,Bachelor's,No
+EMP9737,Finance,Female,53,5.9,2106000.0,1,5,No,Yes,Master's,No
+EMP9738,HR,Female,51,3.3,1659000.0,2,4,No,No,Master's,No
+EMP9739,Customer Support,Female,33,3.8,1607000.0,2,4,No,Yes,PhD,Yes
+EMP9740,Marketing,Female,37,6.6,1466000.0,2,2,No,Yes,Master's,No
+EMP9741,Marketing,Male,44,2.5,1726000.0,1,4,No,No,Master's,No
+EMP9742,Engineering,Male,31,1.8,827000.0,5,4,No,No,Master's,Yes
+EMP9743,Customer Support,Female,35,0.4,817000.0,2,3,No,No,Bachelor's,Yes
+EMP9744,Engineering,Female,42,5.1,758000.0,5,5,No,Yes,Bachelor's,No
+EMP9745,Operations,Male,46,11.6,1083000.0,4,3,No,No,Bachelor's,No
+EMP9746,Marketing,Female,34,2.3,1751000.0,3,3,Yes,Yes,Bachelor's,No
+EMP9747,Finance,Male,49,11.9,1710000.0,3,4,No,Yes,Bachelor's,No
+EMP9748,HR,Male,36,12.5,1034000.0,5,5,No,Yes,Bachelor's,No
+EMP9749,HR,Female,48,9.1,1188000.0,4,2,No,Yes,Master's,No
+EMP9750,Engineering,Female,21,7.5,1621000.0,3,4,Yes,Yes,Master's,No
+EMP9751,Marketing,Male,52,3.9,359000.0,5,3,No,No,Master's,No
+EMP9752,Sales,Male,56,12.7,1748000.0,4,3,No,Yes,Bachelor's,No
+EMP9753,Marketing,Female,39,9.3,886000.0,1,5,No,No,Bachelor's,No
+EMP9754,Sales,Male,47,2.4,1708000.0,5,4,Yes,No,Master's,No
+EMP9755,Engineering,Female,32,0.4,1526000.0,1,5,Yes,Yes,Diploma,Yes
+EMP9756,Engineering,Male,33,9.2,1859000.0,5,4,Yes,No,Bachelor's,No
+EMP9757,Marketing,Male,39,4.9,400000.0,5,1,No,No,Bachelor's,No
+EMP9758,HR,Male,43,12.6,2010000.0,1,1,No,Yes,Bachelor's,Yes
+EMP9759,Marketing,Female,27,11.1,1852000.0,5,4,Yes,Yes,Master's,No
+EMP9760,Finance,Male,26,5.2,698000.0,3,1,Yes,No,Bachelor's,No
+EMP9761,Finance,Female,52,6.0,1377000.0,2,1,Yes,No,Bachelor's,Yes
+EMP9762,Sales,Female,23,1.6,1361000.0,4,5,No,No,Master's,No
+EMP9763,Customer Support,Female,38,9.5,831000.0,4,3,Yes,No,Bachelor's,No
+EMP9764,Operations,Male,40,9.0,1685000.0,4,5,Yes,No,Bachelor's,No
+EMP9765,HR,Male,28,11.3,1199000.0,4,2,No,No,Bachelor's,No
+EMP9766,HR,Female,30,11.4,2020000.0,5,2,No,No,Bachelor's,No
+EMP9767,HR,Female,52,5.0,1554000.0,4,1,No,No,Bachelor's,No
+EMP9768,Engineering,Female,23,3.2,615000.0,3,4,Yes,No,Bachelor's,Yes
+EMP9769,Operations,Male,40,0.8,1199000.0,4,3,No,No,Master's,Yes
+EMP9770,Operations,Female,54,6.2,1996000.0,1,2,Yes,No,Master's,No
+EMP9771,Customer Support,Male,41,3.0,752000.0,1,2,Yes,No,Master's,No
+EMP9772,Engineering,Female,38,6.3,2118000.0,4,3,No,No,Master's,No
+EMP9773,Operations,Female,55,0.3,1510000.0,2,2,Yes,Yes,Bachelor's,No
+EMP9774,Operations,Male,35,9.4,853000.0,2,4,No,No,Bachelor's,No
+EMP9775,Customer Support,Male,30,2.9,602000.0,1,3,Yes,No,Bachelor's,No
+EMP9776,Finance,Male,57,14.6,1985000.0,1,4,No,No,Bachelor's,No
+EMP9777,Engineering,Female,35,0.6,617000.0,1,4,No,No,Master's,Yes
+EMP9778,Finance,Female,22,7.0,662000.0,2,4,No,No,Master's,No
+EMP9779,Customer Support,Male,26,6.9,1243000.0,5,4,No,No,Bachelor's,No
+EMP9780,Operations,Female,46,13.6,845000.0,4,2,No,Yes,Diploma,No
+EMP9781,Operations,Female,56,8.6,1905000.0,3,2,Yes,No,Bachelor's,No
+EMP9782,Sales,Female,33,5.2,399000.0,4,4,No,No,Bachelor's,No
+EMP9783,Marketing,Male,47,9.1,1509000.0,3,4,No,Yes,Master's,No
+EMP9784,Customer Support,Female,25,7.9,1633000.0,4,5,No,Yes,Bachelor's,No
+EMP9785,Sales,Male,37,2.6,847000.0,2,4,No,Yes,Bachelor's,No
+EMP9786,Marketing,Female,38,12.4,402000.0,4,2,Yes,Yes,Bachelor's,No
+EMP9787,HR,Female,26,10.8,1114000.0,3,5,Yes,No,Bachelor's,No
+EMP9788,Finance,Female,35,5.0,1543000.0,4,2,No,Yes,Bachelor's,No
+EMP9789,HR,Male,40,6.9,1248000.0,5,5,Yes,Yes,Bachelor's,No
+EMP9790,Engineering,Female,26,6.9,609000.0,2,4,No,No,Bachelor's,No
+EMP9791,Customer Support,Male,38,10.9,562000.0,4,5,No,Yes,Master's,No
+EMP9792,Operations,Male,54,9.9,919000.0,5,4,Yes,No,Bachelor's,No
+EMP9793,Finance,Male,48,6.6,682000.0,3,2,No,No,Bachelor's,No
+EMP9794,Marketing,Female,21,3.8,796000.0,2,3,No,No,Bachelor's,No
+EMP9795,HR,Female,54,6.1,1680000.0,4,1,Yes,Yes,PhD,No
+EMP9796,Finance,Male,44,5.8,661000.0,2,2,No,Yes,Bachelor's,Yes
+EMP9797,Finance,Male,37,3.8,1177000.0,5,2,Yes,No,Master's,No
+EMP9798,Customer Support,Male,34,3.0,665000.0,2,1,No,Yes,Diploma,Yes
+EMP9799,Engineering,Male,39,3.7,1175000.0,4,4,Yes,No,Bachelor's,No
+EMP9800,Sales,Female,28,7.5,824000.0,3,5,Yes,No,Bachelor's,Yes
+EMP9801,Marketing,Male,31,14.0,1187000.0,1,4,No,No,Diploma,No
+EMP9802,Operations,Female,23,10.9,1688000.0,5,3,No,No,Bachelor's,No
+EMP9803,Engineering,Male,35,5.6,1189000.0,1,1,No,No,Master's,No
+EMP9804,Operations,Female,42,5.9,1552000.0,3,3,No,Yes,Bachelor's,No
+EMP9805,HR,Male,30,8.3,623000.0,2,4,No,Yes,Master's,No
+EMP9806,Engineering,Male,56,3.6,549000.0,1,2,No,Yes,Master's,No
+EMP9807,Operations,Male,48,7.2,2043000.0,2,4,Yes,No,PhD,No
+EMP9808,Marketing,Female,34,8.3,1443000.0,4,1,No,Yes,Master's,No
+EMP9809,Sales,Female,55,8.2,1002000.0,2,2,Yes,Yes,Bachelor's,Yes
+EMP9810,Sales,Female,46,0.7,504000.0,5,2,Yes,No,Bachelor's,No
+EMP9811,Engineering,Female,50,11.1,1879000.0,1,3,No,No,Bachelor's,No
+EMP9812,HR,Female,54,6.1,629000.0,4,2,Yes,No,Bachelor's,No
+EMP9813,Marketing,Female,38,7.7,1221000.0,5,5,No,No,Master's,No
+EMP9814,Engineering,Male,45,9.5,1819000.0,5,4,No,Yes,Master's,No
+EMP9815,Operations,Male,36,2.4,1918000.0,4,2,No,Yes,Bachelor's,No
+EMP9816,Finance,Male,37,0.5,1840000.0,1,2,No,Yes,Master's,No
+EMP9817,Marketing,Female,38,4.9,982000.0,1,5,Yes,No,Bachelor's,Yes
+EMP9818,Customer Support,Female,25,13.3,767000.0,1,5,No,No,Bachelor's,No
+EMP9819,HR,Female,44,12.5,1482000.0,5,3,Yes,Yes,Bachelor's,No
+EMP9820,Engineering,Female,34,7.9,1751000.0,5,4,Yes,Yes,PhD,Yes
+EMP9821,Customer Support,Male,29,2.8,1910000.0,1,2,Yes,No,Master's,Yes
+EMP9822,Engineering,Male,21,10.0,2106000.0,5,2,No,No,Bachelor's,No
+EMP9823,HR,Male,43,12.8,534000.0,4,1,No,Yes,Bachelor's,No
+EMP9824,Finance,Female,30,7.0,415000.0,4,4,No,No,Bachelor's,No
+EMP9825,Operations,Female,29,4.4,536000.0,2,4,No,No,Master's,Yes
+EMP9826,Operations,Female,49,3.3,453000.0,5,2,No,Yes,Bachelor's,No
+EMP9827,Sales,Female,35,5.7,2152000.0,2,5,No,No,Bachelor's,No
+EMP9828,HR,Female,56,10.3,1372000.0,1,1,No,Yes,Bachelor's,Yes
+EMP9829,Sales,Male,22,7.7,1699000.0,3,4,Yes,Yes,PhD,No
+EMP9830,Customer Support,Female,57,9.6,1038000.0,2,2,No,No,Bachelor's,Yes
+EMP9831,Engineering,Female,47,10.5,1885000.0,2,2,Yes,No,Bachelor's,Yes
+EMP9832,Sales,Male,48,0.4,2128000.0,1,3,Yes,No,Bachelor's,Yes
+EMP9833,Customer Support,Male,28,11.9,2146000.0,2,4,No,Yes,Bachelor's,No
+EMP9834,Customer Support,Male,52,7.1,1113000.0,4,4,Yes,No,Bachelor's,Yes
+EMP9835,Finance,Male,55,7.2,311000.0,1,1,No,No,Master's,No
+EMP9836,Finance,Female,53,1.1,1742000.0,5,1,No,Yes,Master's,No
+EMP9837,Finance,Male,39,2.1,1449000.0,2,5,Yes,No,Master's,Yes
+EMP9838,Operations,Female,21,1.3,1109000.0,5,3,Yes,No,PhD,Yes
+EMP9839,Sales,Female,41,10.3,835000.0,4,3,No,Yes,Master's,No
+EMP9840,Customer Support,Male,34,12.9,1258000.0,3,3,Yes,No,Master's,No
+EMP9841,Marketing,Male,47,10.6,1420000.0,2,1,No,Yes,Master's,Yes
+EMP9842,Marketing,Male,30,14.9,456000.0,1,4,Yes,Yes,Diploma,No
+EMP9843,Finance,Female,50,2.8,1945000.0,5,5,No,No,PhD,No
+EMP9844,Sales,Female,44,0.4,414000.0,2,5,No,Yes,Bachelor's,No
+EMP9845,Sales,Male,41,5.1,1366000.0,1,4,No,No,Master's,Yes
+EMP9846,Sales,Male,41,2.6,366000.0,5,5,Yes,Yes,Bachelor's,No
+EMP9847,Finance,Male,54,6.2,975000.0,1,4,No,No,PhD,Yes
+EMP9848,Finance,Male,42,4.2,1503000.0,2,4,No,Yes,Master's,No
+EMP9849,Customer Support,Female,37,7.5,1106000.0,3,4,No,Yes,Master's,No
+EMP9850,HR,Male,56,4.8,1190000.0,3,3,Yes,Yes,Bachelor's,No
+EMP9851,Marketing,Male,23,13.5,1702000.0,3,2,No,No,Master's,No
+EMP9852,Marketing,Male,24,7.2,1649000.0,1,1,Yes,No,Bachelor's,Yes
+EMP9853,Finance,Female,27,0.7,1478000.0,4,3,Yes,No,Bachelor's,Yes
+EMP9854,Marketing,Male,35,8.5,1894000.0,3,3,No,No,Master's,No
+EMP9855,Operations,Male,57,4.3,398000.0,2,4,No,Yes,Master's,Yes
+EMP9856,Engineering,Male,47,6.6,845000.0,1,5,No,No,Master's,No
+EMP9857,Operations,Male,31,8.4,923000.0,1,1,Yes,No,PhD,No
+EMP9858,HR,Female,38,13.0,1605000.0,1,4,Yes,Yes,Master's,No
+EMP9859,Engineering,Female,44,1.2,2101000.0,3,4,No,Yes,Master's,Yes
+EMP9860,Operations,Female,32,11.3,1755000.0,2,5,No,No,Bachelor's,No
+EMP9861,HR,Female,31,10.2,2174000.0,5,2,No,No,Master's,No
+EMP9862,Customer Support,Female,52,5.7,2007000.0,5,3,No,No,Bachelor's,Yes
+EMP9863,Finance,Female,44,11.8,1875000.0,2,1,No,Yes,Diploma,No
+EMP9864,HR,Male,51,14.7,1200000.0,2,1,No,No,Master's,No
+EMP9865,Marketing,Female,44,8.1,306000.0,1,5,Yes,Yes,Bachelor's,Yes
+EMP9866,Engineering,Male,31,14.5,567000.0,4,1,Yes,No,PhD,No
+EMP9867,Customer Support,Male,22,9.3,685000.0,5,2,Yes,No,Master's,Yes
+EMP9868,Marketing,Female,33,3.3,873000.0,5,4,Yes,No,Master's,Yes
+EMP9869,Engineering,Female,45,0.8,932000.0,2,5,No,No,Master's,Yes
+EMP9870,Marketing,Male,41,8.7,1584000.0,4,3,No,No,Bachelor's,No
+EMP9871,Customer Support,Female,39,11.0,648000.0,3,3,Yes,Yes,Master's,No
+EMP9872,HR,Female,43,2.7,1283000.0,2,3,Yes,No,Bachelor's,No
+EMP9873,HR,Female,26,13.4,588000.0,1,4,Yes,No,Bachelor's,Yes
+EMP9874,Operations,Male,47,9.5,1499000.0,2,5,No,Yes,Master's,No
+EMP9875,Operations,Female,48,3.2,1950000.0,3,2,No,No,Bachelor's,No
+EMP9876,Sales,Female,57,14.9,2107000.0,3,2,No,Yes,Master's,No
+EMP9877,Operations,Male,35,9.3,1303000.0,1,4,No,No,Master's,No
+EMP9878,Operations,Female,33,2.8,2199000.0,2,4,No,No,Bachelor's,No
+EMP9879,HR,Female,39,14.9,1474000.0,4,2,No,No,Bachelor's,No
+EMP9880,Operations,Male,52,1.5,654000.0,2,2,No,Yes,Master's,Yes
+EMP9881,HR,Male,46,13.5,1483000.0,2,2,No,No,Bachelor's,Yes
+EMP9882,Operations,Male,24,0.4,2130000.0,5,2,Yes,Yes,Bachelor's,No
+EMP9883,HR,Male,41,8.2,1415000.0,3,2,Yes,No,Bachelor's,No
+EMP9884,Sales,Male,23,1.9,742000.0,5,3,No,No,Bachelor's,No
+EMP9885,Operations,Female,23,14.6,1904000.0,5,5,No,No,Master's,No
+EMP9886,Engineering,Male,29,3.0,1858000.0,5,2,Yes,Yes,Bachelor's,Yes
+EMP9887,Marketing,Female,39,5.8,702000.0,1,2,No,No,Bachelor's,No
+EMP9888,Marketing,Male,57,10.5,1972000.0,1,5,No,Yes,Bachelor's,No
+EMP9889,Finance,Female,49,4.1,595000.0,4,1,Yes,No,Bachelor's,Yes
+EMP9890,Engineering,Female,53,8.0,369000.0,4,5,No,No,Bachelor's,No
+EMP9891,Marketing,Male,55,11.3,1475000.0,4,1,No,Yes,Master's,Yes
+EMP9892,Engineering,Female,22,9.6,941000.0,4,2,No,No,Diploma,No
+EMP9893,Operations,Female,50,14.1,1934000.0,5,2,No,Yes,Bachelor's,No
+EMP9894,HR,Male,51,0.8,1426000.0,1,3,No,No,Bachelor's,Yes
+EMP9895,Finance,Male,43,12.2,1125000.0,3,3,No,No,Bachelor's,No
+EMP9896,Finance,Female,24,7.8,954000.0,1,3,Yes,No,Bachelor's,No
+EMP9897,Marketing,Male,25,7.3,598000.0,3,1,Yes,Yes,Bachelor's,No
+EMP9898,Customer Support,Female,50,11.9,1884000.0,4,5,Yes,No,Master's,Yes
+EMP9899,Sales,Female,53,0.3,480000.0,2,1,No,No,Master's,Yes
+EMP9900,Marketing,Male,21,7.7,1054000.0,1,3,No,No,Bachelor's,No
+EMP9901,Sales,Female,21,7.2,818000.0,1,5,Yes,No,Diploma,Yes
+EMP9902,HR,Female,47,13.6,2114000.0,2,5,Yes,No,Master's,No
+EMP9903,HR,Female,44,5.2,1889000.0,5,1,No,Yes,Bachelor's,No
+EMP9904,Marketing,Male,54,1.6,2082000.0,1,1,No,No,Master's,Yes
+EMP9905,Marketing,Female,22,9.5,783000.0,4,4,No,Yes,Master's,No
+EMP9906,Finance,Male,31,5.7,1259000.0,2,5,No,Yes,Bachelor's,No
+EMP9907,Sales,Female,49,8.5,1700000.0,4,2,Yes,No,Bachelor's,No
+EMP9908,Engineering,Male,53,5.9,1393000.0,3,1,No,No,Master's,No
+EMP9909,Marketing,Female,22,10.8,756000.0,1,4,No,No,Diploma,No
+EMP9910,Operations,Male,54,9.0,476000.0,4,3,No,Yes,Master's,No
+EMP9911,Finance,Female,54,13.9,1697000.0,3,4,No,No,Bachelor's,No
+EMP9912,Customer Support,Male,53,0.6,1042000.0,4,5,No,Yes,Master's,No
+EMP9913,HR,Female,30,14.8,1444000.0,3,3,Yes,No,Master's,No
+EMP9914,Engineering,Female,40,11.2,808000.0,4,1,Yes,Yes,Bachelor's,No
+EMP9915,Engineering,Female,30,1.9,1298000.0,5,3,No,No,Bachelor's,No
+EMP9916,Operations,Female,33,2.1,975000.0,2,1,Yes,No,Master's,Yes
+EMP9917,Marketing,Male,37,5.0,553000.0,1,1,No,Yes,Diploma,Yes
+EMP9918,Operations,Female,57,11.2,1044000.0,5,5,No,No,Bachelor's,No
+EMP9919,Engineering,Male,35,7.1,540000.0,1,3,No,No,Diploma,No
+EMP9920,Customer Support,Male,40,1.8,326000.0,5,3,Yes,Yes,Diploma,No
+EMP9921,Sales,Female,40,11.9,1510000.0,3,1,Yes,No,Master's,No
+EMP9922,HR,Female,55,4.6,1643000.0,3,4,No,No,Bachelor's,No
+EMP9923,Operations,Female,47,3.1,1338000.0,3,3,Yes,No,Bachelor's,No
+EMP9924,Engineering,Male,24,3.3,599000.0,3,4,No,No,Diploma,No
+EMP9925,Sales,Male,27,5.9,642000.0,5,1,Yes,No,Master's,No
+EMP9926,Finance,Female,43,12.6,1993000.0,4,5,No,Yes,Bachelor's,No
+EMP9927,Sales,Female,57,4.7,1824000.0,4,2,No,No,Bachelor's,No
+EMP9928,Finance,Male,54,12.2,1526000.0,2,2,No,Yes,Bachelor's,No
+EMP9929,Marketing,Female,54,13.2,421000.0,4,3,No,No,Bachelor's,No
+EMP9930,Customer Support,Female,24,1.8,1420000.0,5,3,No,Yes,PhD,No
+EMP9931,Sales,Female,34,3.6,1023000.0,1,1,No,No,Master's,Yes
+EMP9932,Marketing,Female,43,13.7,2051000.0,3,2,No,Yes,Bachelor's,No
+EMP9933,Sales,Female,27,11.5,1601000.0,4,4,No,No,Diploma,No
+EMP9934,Customer Support,Male,41,14.8,650000.0,4,4,No,No,Master's,No
+EMP9935,HR,Female,57,1.7,1117000.0,1,4,Yes,No,Bachelor's,Yes
+EMP9936,Operations,Male,34,0.3,1789000.0,5,2,No,Yes,Master's,No
+EMP9937,Marketing,Female,29,14.9,1143000.0,3,3,Yes,No,Master's,No
+EMP9938,Operations,Male,26,7.4,432000.0,3,3,No,Yes,Master's,No
+EMP9939,Finance,Female,56,5.1,809000.0,1,3,No,Yes,Master's,No
+EMP9940,Marketing,Female,42,9.0,379000.0,4,4,No,Yes,Bachelor's,No
+EMP9941,Finance,Female,24,12.5,2085000.0,3,4,Yes,Yes,Bachelor's,No
+EMP9942,Sales,Female,49,11.2,388000.0,2,3,Yes,No,Bachelor's,No
+EMP9943,Sales,Male,48,10.6,847000.0,4,5,No,Yes,Bachelor's,No
+EMP9944,HR,Female,50,11.2,2136000.0,1,2,No,No,Bachelor's,No
+EMP9945,Sales,Male,35,7.6,1693000.0,1,5,No,Yes,Master's,No
+EMP9946,Marketing,Female,40,13.9,1740000.0,1,5,No,Yes,Bachelor's,No
+EMP9947,Operations,Female,48,13.5,2190000.0,3,4,Yes,No,Bachelor's,No
+EMP9948,Customer Support,Male,23,3.5,1278000.0,1,1,No,Yes,Bachelor's,No
+EMP9949,Operations,Female,49,14.8,561000.0,2,4,Yes,Yes,Master's,No
+EMP9950,Customer Support,Female,38,10.2,1115000.0,1,2,No,No,Master's,No
+EMP9951,Engineering,Male,43,4.3,974000.0,1,2,Yes,Yes,Master's,No
+EMP9952,Engineering,Female,36,2.5,1539000.0,1,3,Yes,Yes,Master's,Yes
+EMP9953,HR,Male,32,3.0,2018000.0,3,2,Yes,No,Bachelor's,No
+EMP9954,Customer Support,Female,35,10.8,2168000.0,2,2,No,Yes,Master's,No
+EMP9955,HR,Male,28,7.8,1855000.0,5,3,Yes,No,Master's,Yes
+EMP9956,Sales,Male,24,3.6,1681000.0,3,5,Yes,Yes,Master's,No
+EMP9957,Engineering,Male,44,11.4,1357000.0,2,1,No,No,Bachelor's,No
+EMP9958,Marketing,Female,53,9.5,1309000.0,1,3,No,Yes,Master's,No
+EMP9959,Marketing,Male,42,7.4,685000.0,3,4,Yes,No,Bachelor's,Yes
+EMP9960,Engineering,Female,24,7.4,827000.0,3,2,No,Yes,Master's,No
+EMP9961,Marketing,Female,28,7.3,420000.0,5,3,Yes,Yes,Bachelor's,No
+EMP9962,Operations,Female,50,1.0,1313000.0,2,1,Yes,Yes,Bachelor's,No
+EMP9963,Operations,Male,34,1.6,905000.0,5,3,No,No,Master's,No
+EMP9964,HR,Male,39,13.7,839000.0,1,3,Yes,No,Diploma,No
+EMP9965,HR,Male,55,8.1,450000.0,4,3,No,No,Bachelor's,No
+EMP9966,HR,Male,41,12.6,705000.0,5,1,Yes,Yes,Bachelor's,No
+EMP9967,Customer Support,Female,56,7.0,1597000.0,3,5,No,No,Diploma,No
+EMP9968,Sales,Female,49,3.1,1015000.0,2,5,Yes,No,Bachelor's,Yes
+EMP9969,Marketing,Female,34,2.8,344000.0,5,4,Yes,Yes,Bachelor's,Yes
+EMP9970,Engineering,Female,34,11.4,2047000.0,3,2,No,No,Master's,No
+EMP9971,Engineering,Male,30,11.7,395000.0,4,5,No,No,Master's,No
+EMP9972,Customer Support,Female,30,6.9,1492000.0,5,2,Yes,Yes,Bachelor's,No
+EMP9973,Finance,Male,50,14.2,845000.0,2,1,No,Yes,Master's,No
+EMP9974,Marketing,Female,28,5.3,1660000.0,1,2,No,No,Bachelor's,No
+EMP9975,Marketing,Male,28,2.3,996000.0,3,1,No,No,Bachelor's,No
+EMP9976,Sales,Male,32,7.4,1454000.0,4,5,No,Yes,PhD,No
+EMP9977,HR,Female,21,9.0,2096000.0,1,3,Yes,Yes,Bachelor's,No
+EMP9978,Operations,Male,30,13.8,611000.0,4,4,No,Yes,Master's,No
+EMP9979,Finance,Male,45,3.8,440000.0,1,3,No,No,PhD,No
+EMP9980,Customer Support,Male,30,6.5,1089000.0,1,5,No,Yes,Master's,No
+EMP9981,Operations,Male,39,6.5,2127000.0,2,4,Yes,Yes,Bachelor's,No
+EMP9982,HR,Female,26,7.2,1774000.0,1,4,No,Yes,Bachelor's,No
+EMP9983,Engineering,Male,26,2.0,1115000.0,5,5,No,No,Bachelor's,No
+EMP9984,HR,Male,27,14.9,949000.0,1,1,No,Yes,Master's,No
+EMP9985,Sales,Female,50,5.5,815000.0,3,1,No,No,Bachelor's,No
+EMP9986,Finance,Male,28,12.1,584000.0,4,2,No,Yes,Bachelor's,No
+EMP9987,Customer Support,Female,44,8.2,1115000.0,3,2,No,No,Bachelor's,No
+EMP9988,HR,Male,31,3.3,2150000.0,1,3,Yes,No,Bachelor's,Yes
+EMP9989,Engineering,Male,29,13.8,635000.0,1,3,No,No,PhD,No
+EMP9990,Marketing,Female,27,6.2,837000.0,4,2,No,Yes,Master's,No
+EMP9991,Customer Support,Male,31,12.7,1772000.0,1,4,No,Yes,Bachelor's,Yes
+EMP9992,Engineering,Female,53,13.2,721000.0,1,5,No,No,Master's,No
+EMP9993,Sales,Female,25,7.8,1281000.0,1,4,No,Yes,Bachelor's,No
+EMP9994,Customer Support,Male,42,9.0,716000.0,3,3,No,Yes,Master's,No
+EMP9995,Engineering,Female,45,8.1,912000.0,3,1,Yes,No,Bachelor's,No
+EMP9996,Marketing,Male,44,8.7,933000.0,3,2,No,No,Master's,No
+EMP9997,HR,Male,51,10.3,2013000.0,2,2,No,No,Master's,No
+EMP9998,Customer Support,Female,23,4.3,826000.0,1,4,No,Yes,Master's,No
+EMP9999,Operations,Female,33,13.9,753000.0,2,3,No,No,Bachelor's,No
+EMP10000,Sales,Male,28,13.9,1871000.0,2,3,Yes,No,Bachelor's,Yes
+EMP10001,Operations,Female,26,7.4,877000.0,2,4,No,No,Bachelor's,Yes
+EMP10002,Operations,Female,28,8.8,1211000.0,2,3,No,No,Bachelor's,Yes
+EMP10003,Customer Support,Female,36,12.1,2012000.0,5,3,Yes,Yes,Diploma,No
+EMP10004,Sales,Female,21,12.0,1017000.0,1,3,No,Yes,Bachelor's,Yes
+EMP10005,Finance,Female,44,5.5,1985000.0,5,2,No,Yes,Diploma,No
+EMP10006,Marketing,Male,41,11.9,1047000.0,3,2,No,Yes,PhD,No
+EMP10007,Finance,Female,30,12.5,2102000.0,1,2,No,No,Bachelor's,Yes
+EMP10008,Finance,Male,27,10.8,1371000.0,1,5,No,No,Diploma,No
+EMP10009,Finance,Male,44,4.1,1843000.0,1,5,No,No,Bachelor's,Yes
+EMP10010,Customer Support,Female,23,14.1,1611000.0,3,5,Yes,No,Master's,Yes
+EMP10011,HR,Female,37,10.4,1433000.0,1,2,No,No,Bachelor's,No
+EMP10012,HR,Male,44,6.3,2191000.0,5,2,No,Yes,Bachelor's,No
+EMP10013,Sales,Female,39,12.9,405000.0,5,5,No,No,PhD,No
+EMP10014,Sales,Male,26,14.1,811000.0,5,2,Yes,No,Bachelor's,No
+EMP10015,Customer Support,Female,34,7.6,2191000.0,3,1,No,Yes,PhD,No
+EMP10016,HR,Male,51,1.3,1761000.0,2,5,No,No,PhD,No
+EMP10017,Engineering,Male,53,10.0,624000.0,5,2,No,No,Master's,No
+EMP10018,Operations,Male,26,3.0,1970000.0,1,4,Yes,No,Diploma,No
+EMP10019,HR,Male,22,12.6,1926000.0,4,3,No,No,Bachelor's,No
+EMP10020,Finance,Male,48,2.6,1459000.0,5,1,No,No,Diploma,Yes
+EMP10021,Customer Support,Female,30,11.1,939000.0,3,2,No,No,Master's,No
+EMP10022,Customer Support,Female,24,3.6,1800000.0,5,1,No,No,Bachelor's,No
+EMP10023,Operations,Male,48,8.0,2167000.0,4,4,No,No,Bachelor's,No
+EMP10024,Operations,Male,24,9.8,869000.0,3,3,No,Yes,Master's,No
+EMP10025,Customer Support,Male,33,0.4,531000.0,1,4,Yes,No,Bachelor's,Yes
+EMP10026,Finance,Male,39,4.7,2189000.0,1,4,Yes,No,Bachelor's,Yes
+EMP10027,Operations,Female,23,14.0,793000.0,1,1,No,Yes,Bachelor's,Yes
+EMP10028,Sales,Female,29,5.1,925000.0,1,1,Yes,No,Master's,Yes
+EMP10029,Operations,Male,34,12.5,763000.0,4,2,Yes,No,Bachelor's,No
+EMP10030,Engineering,Male,31,13.5,1185000.0,4,4,No,Yes,Bachelor's,No
+EMP10031,Finance,Female,34,10.9,1178000.0,4,4,No,Yes,Master's,No
+EMP10032,Customer Support,Male,24,4.5,1228000.0,4,5,No,Yes,Bachelor's,No
+EMP10033,Finance,Female,21,11.0,1145000.0,1,3,No,No,Bachelor's,No
+EMP10034,Engineering,Female,46,2.3,1071000.0,3,2,No,No,Bachelor's,No
+EMP10035,Engineering,Male,34,9.6,364000.0,4,1,No,No,Bachelor's,Yes
+EMP10036,Finance,Female,33,6.5,953000.0,5,4,No,No,Bachelor's,No
+EMP10037,Sales,Female,30,8.4,1056000.0,4,3,No,No,Master's,No
+EMP10038,HR,Female,36,1.6,1825000.0,4,4,Yes,Yes,Bachelor's,No
+EMP10039,Engineering,Male,39,3.9,1184000.0,3,3,No,No,Bachelor's,Yes
+EMP10040,HR,Female,32,10.3,575000.0,3,1,No,No,Bachelor's,No
+EMP10041,Finance,Female,46,2.7,872000.0,2,2,No,Yes,Bachelor's,No
+EMP10042,HR,Male,42,14.6,1891000.0,2,5,No,No,Bachelor's,Yes
+EMP10043,Sales,Female,24,11.8,518000.0,2,3,No,No,Bachelor's,No
+EMP10044,HR,Female,57,14.8,1152000.0,2,2,Yes,No,Master's,Yes
+EMP10045,Customer Support,Female,25,14.9,1558000.0,4,4,No,No,Master's,No
+EMP10046,Customer Support,Female,56,2.7,808000.0,5,4,No,Yes,Bachelor's,No
+EMP10047,Sales,Female,42,13.7,1836000.0,3,2,No,Yes,Master's,No
+EMP10048,Customer Support,Male,31,5.4,911000.0,1,5,Yes,No,Bachelor's,Yes
+EMP10049,Finance,Male,30,2.2,2029000.0,1,3,No,No,PhD,Yes
+EMP10050,Operations,Female,25,6.3,949000.0,1,2,No,Yes,PhD,Yes
+EMP10051,Engineering,Male,48,7.0,1218000.0,3,3,No,Yes,Bachelor's,No
+EMP10052,Engineering,Female,49,14.3,554000.0,1,2,No,No,Diploma,No
+EMP10053,Marketing,Female,31,2.4,1018000.0,1,4,Yes,No,PhD,No
+EMP10054,HR,Female,48,4.6,425000.0,5,5,No,No,Bachelor's,No
+EMP10055,Finance,Male,54,2.4,800000.0,5,4,No,No,Diploma,No
+EMP10056,Finance,Female,29,6.1,1035000.0,2,5,No,No,Bachelor's,No
+EMP10057,Operations,Male,29,8.4,390000.0,1,4,No,No,Bachelor's,No
+EMP10058,Sales,Female,55,3.3,1093000.0,1,5,No,Yes,Diploma,No
+EMP10059,Operations,Male,57,7.3,588000.0,2,5,Yes,No,Diploma,Yes
+EMP10060,HR,Female,53,10.7,2054000.0,2,5,Yes,Yes,Bachelor's,No
+EMP10061,Marketing,Female,45,13.4,1411000.0,4,2,No,No,Bachelor's,Yes
+EMP10062,Customer Support,Male,42,1.7,1767000.0,5,2,No,Yes,Bachelor's,No
+EMP10063,Customer Support,Female,24,10.5,1890000.0,4,4,No,No,Bachelor's,No
+EMP10064,Customer Support,Male,32,7.0,2024000.0,2,3,No,No,Master's,Yes
+EMP10065,Operations,Female,33,2.1,1342000.0,2,1,No,Yes,Bachelor's,No
+EMP10066,Engineering,Male,21,11.3,1833000.0,1,3,No,No,Diploma,No
+EMP10067,Operations,Male,36,6.6,1907000.0,2,5,No,No,Bachelor's,No
+EMP10068,HR,Female,49,13.7,1204000.0,1,4,Yes,No,Bachelor's,No
+EMP10069,Operations,Female,39,13.6,2021000.0,4,5,No,Yes,Bachelor's,No
+EMP10070,Engineering,Male,51,3.7,390000.0,4,3,No,Yes,Master's,No
+EMP10071,Finance,Female,32,10.7,792000.0,5,2,No,Yes,Master's,No
+EMP10072,HR,Male,33,10.8,1907000.0,5,1,No,No,Diploma,No
+EMP10073,Marketing,Male,37,3.8,1113000.0,3,4,No,Yes,Bachelor's,No
+EMP10074,HR,Female,55,10.7,1877000.0,1,2,No,No,Bachelor's,No
+EMP10075,Sales,Male,53,7.0,933000.0,1,3,No,Yes,Bachelor's,No
+EMP10076,Finance,Female,33,13.3,791000.0,4,2,No,Yes,Diploma,Yes
+EMP10077,Marketing,Male,53,3.4,943000.0,4,5,No,Yes,Bachelor's,No
+EMP10078,Engineering,Male,41,10.7,431000.0,1,4,Yes,Yes,Bachelor's,Yes
+EMP10079,Operations,Female,29,5.7,1607000.0,2,3,Yes,Yes,Bachelor's,No
+EMP10080,Finance,Female,27,1.3,1829000.0,5,4,No,Yes,Master's,No
+EMP10081,Operations,Male,36,6.3,397000.0,1,4,Yes,Yes,Bachelor's,Yes
+EMP10082,HR,Female,33,9.6,1340000.0,3,3,Yes,No,Bachelor's,No
+EMP10083,Operations,Female,48,8.9,364000.0,2,3,Yes,Yes,Bachelor's,Yes
+EMP10084,Finance,Female,48,8.9,2067000.0,4,5,No,No,Diploma,No
+EMP10085,Finance,Male,47,5.1,2095000.0,2,4,No,No,Diploma,Yes
+EMP10086,Engineering,Female,46,12.4,527000.0,5,2,No,No,Diploma,No
+EMP10087,Sales,Female,26,9.0,1323000.0,3,1,No,No,Master's,No
+EMP10088,Customer Support,Male,36,5.7,1122000.0,5,4,No,No,Master's,Yes
+EMP10089,Finance,Female,46,11.7,1153000.0,3,1,Yes,Yes,Bachelor's,No
+EMP10090,Sales,Male,39,3.5,1694000.0,5,2,No,Yes,Master's,No
+EMP10091,HR,Female,31,1.9,1907000.0,2,2,Yes,No,Master's,No
+EMP10092,Customer Support,Male,22,4.2,450000.0,4,4,Yes,No,Bachelor's,No
+EMP10093,Finance,Male,36,4.3,1820000.0,4,4,No,Yes,Master's,No
+EMP10094,Sales,Male,48,3.4,1700000.0,5,2,No,No,Diploma,No
+EMP10095,Sales,Female,42,8.0,959000.0,4,3,Yes,No,PhD,No
+EMP10096,Finance,Female,33,8.3,1821000.0,5,3,Yes,No,Bachelor's,No
+EMP10097,Operations,Male,30,13.3,349000.0,1,2,No,No,Bachelor's,No
+EMP10098,HR,Male,44,12.9,1784000.0,2,3,Yes,No,Master's,No
+EMP10099,Customer Support,Male,43,6.7,1202000.0,2,4,No,Yes,Master's,No
+EMP10100,Sales,Male,47,13.7,2092000.0,2,4,No,Yes,Diploma,No
+EMP10101,Marketing,Male,48,8.9,932000.0,1,1,No,No,Bachelor's,No
+EMP10102,Finance,Female,24,3.2,1178000.0,4,2,No,No,Master's,Yes
+EMP10103,HR,Female,50,7.4,484000.0,4,2,No,No,Bachelor's,No
+EMP10104,Sales,Male,55,10.0,1386000.0,2,4,No,No,Bachelor's,No
+EMP10105,Operations,Female,36,0.6,920000.0,5,5,No,Yes,Bachelor's,Yes
+EMP10106,Sales,Male,30,14.9,2142000.0,2,3,No,No,Master's,No
+EMP10107,Sales,Male,22,13.8,1560000.0,3,3,No,No,Master's,No
+EMP10108,Customer Support,Male,49,13.7,670000.0,1,4,No,No,Bachelor's,No
+EMP10109,Operations,Male,42,0.5,2045000.0,1,5,Yes,Yes,Bachelor's,No
+EMP10110,Marketing,Male,30,8.1,674000.0,3,1,Yes,No,Bachelor's,Yes
+EMP10111,Engineering,Male,40,13.9,848000.0,5,3,No,No,Bachelor's,No
+EMP10112,HR,Male,35,1.3,1512000.0,3,2,No,Yes,Bachelor's,No
+EMP10113,Finance,Female,30,6.0,1520000.0,1,4,Yes,Yes,Bachelor's,Yes
+EMP10114,Operations,Female,50,10.0,533000.0,2,2,Yes,No,Bachelor's,No
+EMP10115,Marketing,Female,38,9.2,745000.0,1,2,No,No,Bachelor's,No
+EMP10116,Customer Support,Male,39,13.8,718000.0,4,1,No,No,Master's,No
+EMP10117,Engineering,Female,57,3.7,1276000.0,5,3,Yes,Yes,Bachelor's,No
+EMP10118,Customer Support,Female,23,15.0,1844000.0,1,5,No,No,Bachelor's,Yes
+EMP10119,Operations,Male,38,0.2,935000.0,1,1,Yes,No,Bachelor's,Yes
+EMP10120,HR,Female,54,2.2,948000.0,4,2,No,Yes,Bachelor's,No
+EMP10121,Marketing,Male,32,9.0,1938000.0,5,4,No,Yes,Bachelor's,No
+EMP10122,Operations,Female,29,11.2,2037000.0,2,2,Yes,Yes,Bachelor's,Yes
+EMP10123,Finance,Male,46,4.6,1131000.0,4,5,No,Yes,Bachelor's,Yes
+EMP10124,Customer Support,Male,57,11.0,2026000.0,1,2,No,No,Bachelor's,No
+EMP10125,Engineering,Female,40,8.2,874000.0,1,1,No,No,PhD,No
+EMP10126,Finance,Male,40,1.3,1339000.0,1,5,No,No,Diploma,Yes
+EMP10127,Marketing,Female,52,14.8,1734000.0,2,4,No,No,Bachelor's,No
+EMP10128,Engineering,Male,47,8.6,1430000.0,1,2,No,No,Bachelor's,No
+EMP10129,Operations,Female,42,6.2,1139000.0,4,3,No,No,Master's,No
+EMP10130,Customer Support,Female,56,9.1,1797000.0,4,5,No,No,Bachelor's,No
+EMP10131,Marketing,Male,32,8.2,1806000.0,3,5,No,Yes,Diploma,No
+EMP10132,Finance,Female,57,6.2,1474000.0,1,4,No,Yes,Bachelor's,Yes
+EMP10133,Finance,Male,35,8.1,1659000.0,4,2,No,Yes,Bachelor's,No
+EMP10134,Finance,Female,49,6.0,1608000.0,1,5,Yes,No,Diploma,Yes
+EMP10135,Finance,Male,22,4.6,1914000.0,2,1,Yes,Yes,Master's,No
+EMP10136,HR,Female,45,12.3,1547000.0,5,3,No,Yes,Master's,No
+EMP10137,HR,Female,42,13.8,1556000.0,1,2,No,No,Master's,Yes
+EMP10138,Sales,Female,39,8.7,1002000.0,4,5,No,No,Master's,No
+EMP10139,Engineering,Male,30,6.1,1415000.0,1,5,No,No,Master's,Yes
+EMP10140,Engineering,Female,40,12.6,1986000.0,2,5,No,No,Bachelor's,No
+EMP10141,HR,Female,32,8.2,905000.0,2,4,No,Yes,Master's,No
+EMP10142,Finance,Female,54,13.3,1680000.0,4,1,No,Yes,Master's,No
+EMP10143,Customer Support,Female,26,4.1,2031000.0,4,3,Yes,Yes,Master's,Yes
+EMP10144,Sales,Male,25,12.5,1002000.0,4,1,No,No,Master's,No
+EMP10145,HR,Female,45,2.1,1580000.0,5,3,Yes,No,Diploma,No
+EMP10146,HR,Female,42,9.9,1065000.0,1,5,No,Yes,Master's,No
+EMP10147,Sales,Male,37,6.3,536000.0,1,4,No,No,Master's,No
+EMP10148,Engineering,Male,53,1.0,753000.0,4,3,No,Yes,Master's,No
+EMP10149,Finance,Male,26,14.3,1303000.0,5,5,No,No,Master's,No
+EMP10150,HR,Female,32,7.7,2100000.0,2,1,Yes,No,Bachelor's,Yes
+EMP10151,Operations,Male,33,2.1,838000.0,5,5,No,No,Bachelor's,Yes
+EMP10152,Sales,Female,51,6.0,958000.0,3,2,No,No,Bachelor's,No
+EMP10153,Customer Support,Male,40,5.3,932000.0,4,2,No,Yes,Diploma,No
+EMP10154,Engineering,Male,24,2.7,1920000.0,2,3,No,Yes,PhD,Yes
+EMP10155,Marketing,Female,50,10.6,767000.0,2,2,No,No,Diploma,No
+EMP10156,Operations,Male,38,11.7,377000.0,2,4,No,Yes,PhD,No
+EMP10157,Customer Support,Male,54,1.2,1035000.0,3,3,No,No,PhD,No
+EMP10158,Engineering,Male,49,8.2,304000.0,3,1,Yes,Yes,Bachelor's,Yes
+EMP10159,Finance,Female,55,5.4,1014000.0,5,3,Yes,No,Bachelor's,No
+EMP10160,Customer Support,Male,40,0.9,1600000.0,3,5,No,No,Master's,No
+EMP10161,HR,Male,47,8.1,1023000.0,3,2,No,No,Bachelor's,No
+EMP10162,Customer Support,Male,44,14.6,531000.0,5,4,Yes,Yes,Master's,No
+EMP10163,Customer Support,Female,24,7.7,1993000.0,5,2,No,No,Master's,No
+EMP10164,Operations,Female,56,3.1,310000.0,5,4,Yes,No,Master's,No
+EMP10165,Customer Support,Female,24,7.9,1035000.0,2,5,Yes,No,Bachelor's,No
+EMP10166,Finance,Female,25,12.0,1219000.0,5,5,No,No,Bachelor's,No
+EMP10167,HR,Male,37,0.7,1773000.0,4,3,No,No,Bachelor's,No
+EMP10168,Engineering,Female,50,3.9,2142000.0,4,2,Yes,Yes,Bachelor's,No
+EMP10169,Marketing,Male,44,9.9,1526000.0,2,3,Yes,No,Diploma,No
+EMP10170,Engineering,Male,22,3.6,305000.0,2,2,Yes,No,Bachelor's,Yes
+EMP10171,Operations,Male,49,1.5,1639000.0,5,3,Yes,Yes,Bachelor's,No
+EMP10172,Finance,Female,38,12.9,1464000.0,5,4,Yes,No,Master's,No
+EMP10173,Finance,Female,45,2.9,1051000.0,4,5,Yes,No,Diploma,No
+EMP10174,HR,Male,33,1.1,1896000.0,4,3,No,Yes,Master's,No
+EMP10175,Finance,Female,49,9.7,1030000.0,3,1,No,Yes,Bachelor's,No
+EMP10176,Engineering,Male,44,4.6,1105000.0,2,4,Yes,Yes,Bachelor's,No
+EMP10177,Finance,Female,35,13.0,1550000.0,3,3,No,Yes,Master's,No
+EMP10178,HR,Male,42,11.3,951000.0,2,2,No,No,Bachelor's,No
+EMP10179,Customer Support,Female,39,14.0,2157000.0,2,3,Yes,No,Bachelor's,Yes
+EMP10180,HR,Male,51,14.3,2185000.0,4,5,Yes,Yes,Master's,Yes
+EMP10181,HR,Female,57,3.0,1927000.0,2,1,Yes,No,Master's,No
+EMP10182,Operations,Male,21,10.1,718000.0,5,5,No,No,Bachelor's,No
+EMP10183,Customer Support,Male,37,7.2,1668000.0,4,4,No,Yes,Bachelor's,No
+EMP10184,HR,Male,49,10.3,488000.0,2,3,No,No,Bachelor's,Yes
+EMP10185,Sales,Male,51,1.6,944000.0,2,5,No,No,Master's,No
+EMP10186,Engineering,Female,50,1.7,1101000.0,3,2,No,No,Master's,No
+EMP10187,Customer Support,Female,24,1.0,710000.0,2,5,No,Yes,Master's,Yes
+EMP10188,HR,Female,40,8.1,860000.0,3,3,Yes,Yes,Diploma,No
+EMP10189,Marketing,Male,44,2.7,1901000.0,2,2,No,No,Master's,Yes
+EMP10190,Operations,Female,43,7.7,1563000.0,3,5,Yes,Yes,Bachelor's,Yes
+EMP10191,Marketing,Female,27,5.5,546000.0,3,4,No,Yes,Master's,No
+EMP10192,Customer Support,Male,28,5.3,777000.0,5,2,No,No,Bachelor's,No
+EMP10193,Marketing,Female,46,7.7,1464000.0,3,3,Yes,No,Diploma,No
+EMP10194,Engineering,Female,48,7.4,1736000.0,5,3,No,No,Diploma,No
+EMP10195,Marketing,Female,53,1.6,1081000.0,3,2,No,No,Master's,No
+EMP10196,Finance,Female,33,3.7,2124000.0,4,1,No,No,Bachelor's,No
+EMP10197,HR,Male,34,8.8,1441000.0,2,1,No,No,Master's,No
+EMP10198,Marketing,Female,24,1.9,335000.0,4,1,No,Yes,Master's,Yes
+EMP10199,HR,Male,55,1.4,521000.0,4,5,No,Yes,Diploma,No
+EMP10200,HR,Male,36,11.3,977000.0,2,3,Yes,No,Master's,Yes
+EMP10201,Engineering,Female,24,12.5,1992000.0,3,5,No,No,PhD,No
+EMP10202,Finance,Female,34,5.1,2150000.0,2,4,No,No,Bachelor's,No
+EMP10203,Operations,Female,48,12.9,510000.0,3,4,Yes,Yes,Bachelor's,No
+EMP10204,HR,Female,32,6.5,1664000.0,3,1,Yes,Yes,Master's,No
+EMP10205,Operations,Male,27,4.1,1792000.0,1,3,No,Yes,Diploma,No
+EMP10206,Engineering,Female,25,2.7,1337000.0,5,2,No,Yes,Master's,No
+EMP10207,Engineering,Female,37,7.7,969000.0,2,4,No,Yes,Bachelor's,Yes
+EMP10208,Operations,Female,23,0.8,970000.0,3,5,No,Yes,Diploma,Yes
+EMP10209,Sales,Male,45,3.0,1725000.0,5,3,No,Yes,Master's,No
+EMP10210,Customer Support,Male,48,3.3,1990000.0,3,5,No,No,Diploma,Yes
+EMP10211,Marketing,Female,47,12.4,743000.0,1,4,No,No,Bachelor's,Yes
+EMP10212,HR,Female,41,4.2,1551000.0,2,4,Yes,No,Bachelor's,No
+EMP10213,Finance,Male,55,5.1,558000.0,1,4,Yes,Yes,Master's,No
+EMP10214,Sales,Male,43,12.9,1935000.0,2,1,Yes,Yes,Diploma,Yes
+EMP10215,HR,Male,24,14.2,1769000.0,4,3,No,No,PhD,No
+EMP10216,HR,Male,37,6.6,1198000.0,1,3,No,Yes,PhD,No
+EMP10217,HR,Female,49,2.2,754000.0,2,2,No,Yes,Bachelor's,Yes
+EMP10218,Finance,Female,30,7.3,1788000.0,1,2,No,Yes,Master's,No
+EMP10219,Customer Support,Male,56,6.8,850000.0,4,4,No,No,PhD,Yes
+EMP10220,Finance,Female,26,1.1,1484000.0,1,5,No,No,Diploma,No
+EMP10221,HR,Male,44,12.3,1552000.0,5,1,No,No,Bachelor's,Yes
+EMP10222,Marketing,Male,21,12.8,1595000.0,3,5,Yes,No,Bachelor's,No
+EMP10223,Operations,Female,36,13.6,572000.0,3,1,No,No,Bachelor's,No
+EMP10224,Operations,Female,57,4.2,455000.0,3,5,Yes,No,Bachelor's,Yes
+EMP10225,Engineering,Male,35,3.7,762000.0,5,1,No,No,Bachelor's,No
+EMP10226,Marketing,Male,35,12.0,1379000.0,5,2,No,No,Bachelor's,No
+EMP10227,Operations,Female,36,11.2,1817000.0,4,5,No,Yes,Bachelor's,No
+EMP10228,Customer Support,Female,40,2.1,1784000.0,3,3,Yes,Yes,Master's,No
+EMP10229,Operations,Female,42,3.8,1956000.0,2,3,No,No,Bachelor's,No
+EMP10230,Customer Support,Female,38,3.5,1907000.0,3,2,Yes,No,Bachelor's,No
+EMP10231,Sales,Female,34,3.2,1855000.0,1,5,No,Yes,Master's,No
+EMP10232,Sales,Male,21,8.0,1110000.0,3,4,Yes,Yes,Bachelor's,No
+EMP10233,Marketing,Female,52,2.4,1629000.0,1,2,Yes,No,Bachelor's,No
+EMP10234,Operations,Male,34,8.4,715000.0,5,4,No,No,Master's,No
+EMP10235,Operations,Male,48,12.8,2151000.0,2,5,Yes,Yes,Bachelor's,Yes
+EMP10236,Finance,Male,43,12.6,1350000.0,1,1,Yes,No,Bachelor's,Yes
+EMP10237,Finance,Female,47,14.5,1041000.0,5,3,No,No,Bachelor's,No
+EMP10238,Customer Support,Female,42,2.0,2078000.0,2,2,Yes,No,Bachelor's,Yes
+EMP10239,Operations,Female,29,7.2,1286000.0,4,5,Yes,No,Bachelor's,No
+EMP10240,Customer Support,Male,45,2.0,556000.0,5,5,No,No,Bachelor's,No
+EMP10241,Marketing,Male,53,12.6,913000.0,5,4,No,No,Bachelor's,No
+EMP10242,Engineering,Female,22,5.6,355000.0,1,1,Yes,No,Master's,Yes
+EMP10243,Customer Support,Male,22,7.2,1602000.0,4,5,No,No,Bachelor's,Yes
+EMP10244,Finance,Female,39,9.1,808000.0,2,2,No,No,Bachelor's,No
+EMP10245,Sales,Male,30,13.9,401000.0,3,5,Yes,No,Bachelor's,Yes
+EMP10246,HR,Female,26,7.0,1220000.0,2,4,No,No,Master's,No
+EMP10247,Customer Support,Female,22,10.5,548000.0,4,5,No,No,Diploma,Yes
+EMP10248,Engineering,Female,25,10.4,1177000.0,3,2,No,No,Bachelor's,No
+EMP10249,Marketing,Female,22,8.6,492000.0,1,4,Yes,Yes,Master's,Yes
+EMP10250,Marketing,Male,57,3.4,664000.0,4,1,No,Yes,PhD,No
+EMP10251,HR,Male,40,7.4,398000.0,2,5,Yes,No,Master's,No
+EMP10252,Operations,Male,26,11.9,1290000.0,5,1,No,No,Bachelor's,No
+EMP10253,Engineering,Female,48,0.3,525000.0,4,3,No,Yes,Master's,No
+EMP10254,Customer Support,Male,54,8.5,2103000.0,5,1,No,No,PhD,No
+EMP10255,Customer Support,Male,47,6.0,714000.0,4,4,No,Yes,Bachelor's,No
+EMP10256,Marketing,Male,49,10.4,1753000.0,1,2,No,Yes,Master's,Yes
+EMP10257,Finance,Male,52,10.2,1403000.0,3,2,No,No,Master's,No
+EMP10258,Sales,Male,55,4.9,1873000.0,2,4,No,Yes,Master's,No
+EMP10259,Customer Support,Female,53,5.7,932000.0,5,2,No,Yes,Bachelor's,No
+EMP10260,HR,Male,32,12.3,1639000.0,1,2,No,Yes,Bachelor's,No
+EMP10261,Customer Support,Male,36,1.0,2178000.0,4,4,No,No,Master's,No
+EMP10262,Operations,Male,33,4.9,898000.0,1,3,No,No,Master's,Yes
+EMP10263,Marketing,Male,29,6.3,1951000.0,5,4,No,Yes,Bachelor's,No
+EMP10264,Engineering,Male,35,7.4,460000.0,2,2,No,Yes,Bachelor's,No
+EMP10265,HR,Female,46,7.5,1462000.0,1,1,No,Yes,Bachelor's,No
+EMP10266,Operations,Female,31,10.8,500000.0,2,3,No,No,Bachelor's,Yes
+EMP10267,Operations,Male,44,14.9,1618000.0,1,3,Yes,No,Master's,No
+EMP10268,Customer Support,Male,36,13.8,570000.0,1,4,Yes,Yes,Bachelor's,No
+EMP10269,HR,Male,49,13.4,1000000.0,3,4,No,Yes,Bachelor's,No
+EMP10270,Engineering,Female,28,13.8,1967000.0,4,3,No,Yes,Master's,No
+EMP10271,Sales,Male,40,1.5,1481000.0,5,3,No,No,Master's,No
+EMP10272,Engineering,Male,52,0.9,532000.0,5,4,Yes,Yes,Master's,No
+EMP10273,Customer Support,Female,33,9.3,546000.0,1,5,Yes,No,Bachelor's,No
+EMP10274,Marketing,Male,45,7.8,1706000.0,5,2,Yes,No,Bachelor's,No
+EMP10275,Marketing,Male,52,3.2,1411000.0,2,5,Yes,No,Master's,No
+EMP10276,Operations,Male,38,14.0,1132000.0,5,4,No,Yes,Bachelor's,No
+EMP10277,Operations,Male,41,8.4,589000.0,2,2,No,No,Bachelor's,No
+EMP10278,Finance,Female,41,1.4,957000.0,5,4,Yes,No,Master's,No
+EMP10279,Operations,Male,51,3.8,1252000.0,5,3,No,No,Master's,No
+EMP10280,Engineering,Female,27,3.5,361000.0,3,5,No,Yes,PhD,Yes
+EMP10281,Marketing,Male,57,8.1,2131000.0,3,1,No,Yes,Bachelor's,No
+EMP10282,HR,Female,52,2.5,1207000.0,3,2,No,Yes,Bachelor's,No
+EMP10283,HR,Female,34,7.0,432000.0,2,5,Yes,No,Master's,Yes
+EMP10284,HR,Male,46,8.6,529000.0,5,3,No,Yes,Bachelor's,No
+EMP10285,Customer Support,Female,38,7.4,1111000.0,3,4,No,Yes,Bachelor's,No
+EMP10286,Customer Support,Female,46,7.6,364000.0,2,5,No,Yes,Master's,Yes
+EMP10287,Engineering,Female,35,8.8,694000.0,2,3,No,No,Master's,Yes
+EMP10288,Customer Support,Male,28,11.3,605000.0,4,2,Yes,No,PhD,No
+EMP10289,HR,Male,41,1.5,1337000.0,1,3,No,No,Bachelor's,No
+EMP10290,Sales,Male,31,4.0,1205000.0,5,5,No,No,Master's,No
+EMP10291,Engineering,Male,23,3.7,1838000.0,5,1,No,No,Master's,No
+EMP10292,Marketing,Female,49,11.9,1971000.0,5,1,No,No,Bachelor's,No
+EMP10293,Customer Support,Female,55,10.6,1512000.0,1,3,No,No,Bachelor's,No
+EMP10294,HR,Male,53,10.2,1071000.0,4,5,No,No,Master's,No
+EMP10295,Customer Support,Female,43,8.0,599000.0,4,1,No,No,Bachelor's,No
+EMP10296,Marketing,Female,37,1.3,592000.0,2,2,No,No,Diploma,No
+EMP10297,Customer Support,Female,23,2.5,615000.0,1,5,No,No,Master's,No
+EMP10298,Sales,Male,57,3.7,1305000.0,4,1,No,Yes,Master's,No
+EMP10299,HR,Female,53,5.4,1071000.0,3,2,No,Yes,Bachelor's,No
+EMP10300,Operations,Female,57,1.7,1619000.0,4,4,No,No,PhD,Yes
+EMP10301,Finance,Female,39,10.1,1651000.0,1,2,Yes,No,PhD,Yes
+EMP10302,Marketing,Male,49,10.6,1720000.0,4,2,Yes,No,Master's,No
+EMP10303,Marketing,Male,47,10.5,656000.0,5,2,No,Yes,PhD,No
+EMP10304,Finance,Female,48,11.6,1919000.0,2,1,No,No,Master's,Yes
+EMP10305,Operations,Female,25,7.9,1167000.0,4,5,No,No,Master's,No
+EMP10306,Operations,Female,40,7.7,394000.0,2,4,No,No,Master's,Yes
+EMP10307,Operations,Female,34,1.4,488000.0,2,5,No,Yes,Bachelor's,No
+EMP10308,Marketing,Male,21,4.8,1675000.0,3,4,No,No,Bachelor's,No
+EMP10309,Operations,Male,24,9.4,1174000.0,2,1,No,No,Bachelor's,No
+EMP10310,Marketing,Male,40,5.2,1309000.0,4,1,No,Yes,Master's,No
+EMP10311,Operations,Male,47,5.4,1554000.0,1,4,No,Yes,Master's,No
+EMP10312,Marketing,Female,42,7.9,736000.0,5,5,Yes,Yes,Bachelor's,Yes
+EMP10313,Sales,Male,56,5.5,388000.0,4,3,No,No,Master's,No
+EMP10314,Marketing,Male,24,2.9,1797000.0,5,4,No,No,Diploma,No
+EMP10315,Operations,Male,29,5.7,703000.0,1,3,Yes,Yes,Bachelor's,No
+EMP10316,Finance,Male,47,9.6,1771000.0,1,5,No,Yes,Bachelor's,No
+EMP10317,Finance,Female,36,14.6,1778000.0,1,1,No,Yes,Master's,Yes
+EMP10318,Engineering,Female,32,14.2,796000.0,5,4,Yes,No,Master's,No
+EMP10319,Customer Support,Female,56,7.7,469000.0,5,1,Yes,Yes,Master's,No
+EMP10320,HR,Male,42,8.0,561000.0,5,1,No,Yes,Bachelor's,No
+EMP10321,Operations,Female,49,0.2,777000.0,1,3,No,No,Master's,No
+EMP10322,Engineering,Male,43,8.0,1588000.0,3,5,Yes,No,Bachelor's,No
+EMP10323,Finance,Female,56,8.8,1199000.0,2,3,No,No,Master's,No
+EMP10324,Engineering,Female,53,11.1,787000.0,4,2,No,No,Bachelor's,No
+EMP10325,HR,Female,54,4.0,2021000.0,4,4,No,No,Diploma,No
+EMP10326,Finance,Female,22,8.1,1866000.0,4,1,Yes,No,Master's,No
+EMP10327,Customer Support,Male,48,8.2,1475000.0,5,4,Yes,No,Bachelor's,No
+EMP10328,Finance,Female,44,13.2,1744000.0,5,1,Yes,Yes,Master's,Yes
+EMP10329,Sales,Male,22,5.2,1225000.0,2,5,No,No,Bachelor's,No
+EMP10330,Sales,Male,48,13.3,525000.0,5,2,Yes,Yes,Bachelor's,No
+EMP10331,HR,Female,23,6.0,1754000.0,4,4,No,Yes,Master's,No
+EMP10332,Finance,Male,27,13.9,2023000.0,2,2,Yes,No,Bachelor's,No
+EMP10333,Marketing,Male,30,6.8,2059000.0,1,2,No,No,Bachelor's,Yes
+EMP10334,Finance,Male,30,12.0,944000.0,3,2,Yes,Yes,Master's,No
+EMP10335,Engineering,Female,42,6.2,1400000.0,5,2,No,Yes,Bachelor's,No
+EMP10336,Finance,Male,57,14.6,1561000.0,2,2,No,No,Bachelor's,Yes
+EMP10337,Customer Support,Female,43,1.1,2148000.0,4,5,No,No,PhD,No
+EMP10338,Marketing,Male,44,7.9,620000.0,4,4,Yes,Yes,Master's,No
+EMP10339,Sales,Female,22,4.6,1015000.0,1,2,No,No,Bachelor's,No
+EMP10340,HR,Male,25,14.2,1451000.0,1,5,No,No,Master's,Yes
+EMP10341,Finance,Female,55,14.0,907000.0,1,2,Yes,No,Master's,Yes
+EMP10342,Sales,Female,40,8.6,1475000.0,2,2,No,No,Bachelor's,Yes
+EMP10343,Customer Support,Female,39,2.4,2105000.0,2,2,No,No,Bachelor's,No
+EMP10344,Finance,Male,22,4.0,1641000.0,3,2,No,Yes,Master's,No
+EMP10345,Engineering,Female,32,1.7,855000.0,4,2,Yes,No,Master's,No
+EMP10346,Sales,Female,29,2.5,1719000.0,1,3,Yes,No,Master's,Yes
+EMP10347,Operations,Male,49,12.0,1611000.0,4,1,No,No,Master's,No
+EMP10348,Finance,Female,27,9.9,1190000.0,1,1,No,No,Master's,Yes
+EMP10349,Engineering,Male,35,14.3,1586000.0,2,2,No,Yes,PhD,Yes
+EMP10350,Finance,Male,40,7.2,1131000.0,5,2,Yes,No,Bachelor's,No
+EMP10351,Finance,Female,56,5.3,1629000.0,1,5,No,No,Bachelor's,Yes
+EMP10352,Customer Support,Female,36,6.1,1254000.0,1,1,No,No,PhD,Yes
+EMP10353,Sales,Female,33,13.9,1346000.0,3,2,Yes,Yes,Master's,No
+EMP10354,Engineering,Male,42,6.9,1147000.0,3,1,No,Yes,Bachelor's,No
+EMP10355,Operations,Male,37,13.1,1923000.0,2,4,No,Yes,Diploma,No
+EMP10356,Marketing,Female,28,2.1,948000.0,1,5,No,No,PhD,No
+EMP10357,Operations,Female,57,2.8,1678000.0,5,5,No,No,Diploma,No
+EMP10358,Finance,Female,53,12.9,1819000.0,1,3,No,No,Bachelor's,No
+EMP10359,Engineering,Male,25,0.9,1008000.0,5,2,No,No,Bachelor's,No
+EMP10360,Sales,Male,44,9.5,1870000.0,1,4,No,No,Master's,No
+EMP10361,HR,Male,50,7.4,1381000.0,5,2,No,Yes,Bachelor's,No
+EMP10362,Sales,Male,29,14.1,2017000.0,3,4,No,Yes,Master's,No
+EMP10363,Operations,Male,51,1.8,1204000.0,2,2,No,No,Bachelor's,No
+EMP10364,Operations,Male,37,12.0,670000.0,3,2,No,Yes,Bachelor's,No
+EMP10365,Engineering,Male,47,11.7,1093000.0,1,2,No,Yes,Bachelor's,Yes
+EMP10366,Sales,Female,49,5.6,395000.0,2,1,No,Yes,Bachelor's,No
+EMP10367,Marketing,Female,21,8.4,1038000.0,5,3,No,No,Bachelor's,No
+EMP10368,Operations,Female,54,11.1,1043000.0,2,3,No,No,Master's,No
+EMP10369,Customer Support,Male,45,8.0,1084000.0,1,1,No,No,Bachelor's,No
+EMP10370,Sales,Male,34,12.0,1623000.0,1,5,Yes,No,Bachelor's,Yes
+EMP10371,Finance,Male,29,12.7,1167000.0,3,1,No,No,Diploma,No
+EMP10372,Finance,Female,24,9.0,1670000.0,1,5,No,No,Bachelor's,No
+EMP10373,Finance,Female,31,3.1,335000.0,4,3,Yes,Yes,Bachelor's,No
+EMP10374,Customer Support,Female,30,2.5,648000.0,1,1,No,No,Bachelor's,No
+EMP10375,Customer Support,Male,53,11.5,489000.0,2,4,No,No,PhD,No
+EMP10376,Operations,Female,45,5.7,1293000.0,2,3,No,No,Bachelor's,No
+EMP10377,Sales,Female,47,10.9,969000.0,4,2,No,No,Diploma,No
+EMP10378,Finance,Male,50,15.0,2077000.0,5,2,No,Yes,Master's,No
+EMP10379,Engineering,Female,21,13.5,1654000.0,2,2,Yes,No,Bachelor's,Yes
+EMP10380,HR,Male,27,3.9,1049000.0,2,3,No,No,Master's,No
+EMP10381,Operations,Male,51,8.9,905000.0,2,5,No,Yes,Diploma,No
+EMP10382,Operations,Male,40,9.4,462000.0,5,4,No,No,Bachelor's,No
+EMP10383,Operations,Female,23,12.8,1285000.0,5,5,No,No,Master's,No
+EMP10384,Finance,Male,48,10.7,641000.0,5,4,Yes,No,Bachelor's,No
+EMP10385,Marketing,Male,35,11.1,755000.0,3,2,No,Yes,Bachelor's,No
+EMP10386,Operations,Female,33,3.7,573000.0,1,1,No,Yes,Diploma,No
+EMP10387,Marketing,Male,30,10.0,1620000.0,1,5,No,No,Diploma,Yes
+EMP10388,Marketing,Male,40,2.0,452000.0,3,1,No,Yes,Bachelor's,No
+EMP10389,Operations,Female,26,12.1,1025000.0,5,4,No,No,Master's,No
+EMP10390,Marketing,Female,48,8.8,1477000.0,1,3,Yes,Yes,Diploma,No
+EMP10391,Operations,Female,29,8.6,1457000.0,1,1,No,Yes,Master's,No
+EMP10392,Operations,Male,29,0.6,595000.0,1,4,No,No,Bachelor's,Yes
+EMP10393,Finance,Female,57,7.0,1256000.0,5,2,No,No,Master's,No
+EMP10394,Finance,Male,38,4.3,2034000.0,3,1,No,Yes,PhD,No
+EMP10395,Finance,Female,53,9.6,736000.0,5,5,Yes,No,Diploma,No
+EMP10396,Engineering,Female,51,0.7,1217000.0,4,3,No,No,Bachelor's,Yes
+EMP10397,Operations,Male,35,4.5,1194000.0,5,5,Yes,No,Master's,No
+EMP10398,Sales,Male,35,7.2,1415000.0,4,4,No,No,Diploma,No
+EMP10399,Marketing,Female,24,1.3,1246000.0,5,2,Yes,No,Bachelor's,Yes
+EMP10400,Engineering,Female,54,2.4,680000.0,2,4,No,No,Bachelor's,No
+EMP10401,Engineering,Female,22,0.4,950000.0,4,2,Yes,No,Master's,No
+EMP10402,HR,Male,42,8.9,704000.0,5,1,No,No,Bachelor's,No
+EMP10403,Finance,Male,27,9.2,1389000.0,1,1,No,Yes,Bachelor's,No
+EMP10404,Marketing,Male,47,10.6,869000.0,5,5,Yes,Yes,Master's,No
+EMP10405,Operations,Male,37,6.5,1992000.0,5,3,No,Yes,Diploma,No
+EMP10406,Operations,Male,34,11.7,1303000.0,3,1,Yes,Yes,Bachelor's,No
+EMP10407,Engineering,Female,34,12.1,1892000.0,5,5,No,Yes,Bachelor's,No
+EMP10408,Engineering,Male,25,0.5,906000.0,3,5,No,Yes,Bachelor's,No
+EMP10409,HR,Female,23,14.0,2169000.0,2,5,No,No,Master's,No
+EMP10410,Finance,Female,31,5.2,1943000.0,4,2,Yes,Yes,Master's,No
+EMP10411,Finance,Female,21,13.5,1105000.0,4,5,No,Yes,Bachelor's,No
+EMP10412,Operations,Female,42,5.1,1293000.0,1,1,No,No,Master's,No
+EMP10413,Marketing,Female,34,1.2,377000.0,5,4,Yes,Yes,Master's,No
+EMP10414,Finance,Female,57,6.7,1411000.0,3,1,No,No,Master's,No
+EMP10415,Finance,Male,51,11.3,1403000.0,5,5,No,Yes,Master's,No
+EMP10416,Sales,Male,52,4.0,1159000.0,1,2,No,Yes,Master's,No
+EMP10417,Operations,Male,41,1.8,1468000.0,4,5,No,No,Bachelor's,Yes
+EMP10418,Finance,Female,21,12.2,1274000.0,3,5,No,No,Bachelor's,No
+EMP10419,Sales,Male,22,2.0,923000.0,5,5,No,Yes,Bachelor's,No
+EMP10420,Finance,Male,36,9.7,636000.0,3,3,No,No,Bachelor's,No
+EMP10421,Customer Support,Female,55,10.7,580000.0,1,3,No,Yes,Bachelor's,No
+EMP10422,Finance,Male,49,13.7,1439000.0,4,1,No,Yes,Master's,No
+EMP10423,Sales,Male,26,10.6,958000.0,5,2,No,No,Diploma,No
+EMP10424,Operations,Male,55,8.5,1609000.0,1,3,Yes,Yes,PhD,Yes
+EMP10425,HR,Female,21,4.1,585000.0,4,4,No,No,Bachelor's,No
+EMP10426,Marketing,Female,31,14.5,1058000.0,1,3,No,No,Bachelor's,No
+EMP10427,Operations,Male,49,10.1,852000.0,3,4,No,Yes,Bachelor's,No
+EMP10428,Marketing,Male,44,1.1,692000.0,4,5,No,No,Master's,No
+EMP10429,HR,Male,38,10.5,2066000.0,5,4,No,No,Master's,No
+EMP10430,Finance,Male,40,7.1,1014000.0,2,1,No,Yes,Bachelor's,No
+EMP10431,Marketing,Male,21,13.8,1345000.0,4,3,No,No,Diploma,No
+EMP10432,Engineering,Male,37,2.9,1662000.0,4,5,No,No,Master's,No
+EMP10433,HR,Male,53,11.7,751000.0,3,3,No,No,Master's,No
+EMP10434,Finance,Female,35,14.8,1080000.0,2,1,No,Yes,Master's,Yes
+EMP10435,Marketing,Male,35,8.4,2114000.0,1,4,No,No,Diploma,Yes
+EMP10436,HR,Female,42,1.0,1799000.0,2,3,No,No,Master's,Yes
+EMP10437,Operations,Female,32,2.0,1472000.0,1,2,Yes,Yes,Bachelor's,No
+EMP10438,Engineering,Male,52,11.3,1205000.0,1,3,Yes,Yes,Master's,Yes
+EMP10439,Engineering,Female,40,1.7,1473000.0,4,5,No,Yes,Bachelor's,No
+EMP10440,HR,Female,31,8.2,510000.0,2,4,No,Yes,PhD,No
+EMP10441,Engineering,Female,27,11.4,329000.0,3,3,Yes,No,Bachelor's,No
+EMP10442,Marketing,Female,32,7.0,1801000.0,3,5,Yes,Yes,Bachelor's,No
+EMP10443,Marketing,Female,29,12.3,2188000.0,5,3,Yes,No,Master's,No
+EMP10444,Sales,Female,43,6.4,607000.0,4,5,No,Yes,Master's,No
+EMP10445,Sales,Female,47,13.0,2076000.0,1,4,No,Yes,Master's,Yes
+EMP10446,Customer Support,Male,36,0.8,1955000.0,3,3,No,Yes,Master's,No
+EMP10447,Marketing,Female,52,10.7,1741000.0,3,3,Yes,Yes,Master's,Yes
+EMP10448,Engineering,Male,22,8.0,1646000.0,1,3,No,No,Master's,No
+EMP10449,HR,Female,35,12.4,1990000.0,3,3,No,No,Diploma,No
+EMP10450,Customer Support,Female,41,2.4,814000.0,2,3,No,Yes,Bachelor's,No
+EMP10451,Sales,Male,29,7.0,1392000.0,2,3,Yes,No,Bachelor's,Yes
+EMP10452,Engineering,Male,37,14.8,503000.0,3,2,No,Yes,Master's,No
+EMP10453,Customer Support,Female,37,11.3,813000.0,5,1,No,Yes,Master's,No
+EMP10454,Finance,Male,35,0.3,486000.0,5,1,Yes,Yes,Master's,No
+EMP10455,Engineering,Female,52,11.4,817000.0,3,2,Yes,No,Master's,No
+EMP10456,HR,Male,42,9.1,1400000.0,3,3,Yes,No,Diploma,No
+EMP10457,HR,Female,55,2.0,878000.0,1,5,Yes,Yes,Bachelor's,No
+EMP10458,HR,Female,23,2.1,512000.0,4,3,No,No,Bachelor's,No
+EMP10459,Engineering,Male,23,14.0,2157000.0,1,1,No,Yes,Bachelor's,Yes
+EMP10460,HR,Male,35,12.7,809000.0,5,2,No,Yes,Master's,Yes
+EMP10461,Finance,Female,29,13.7,1328000.0,3,2,No,No,Bachelor's,No
+EMP10462,Customer Support,Male,49,1.3,546000.0,3,1,Yes,No,Bachelor's,No
+EMP10463,Customer Support,Female,37,13.3,463000.0,2,1,No,No,Diploma,Yes
+EMP10464,Customer Support,Male,39,1.2,1465000.0,3,5,No,No,Master's,No
+EMP10465,Customer Support,Male,31,5.4,1990000.0,3,4,No,No,Bachelor's,Yes
+EMP10466,Sales,Male,42,0.2,975000.0,2,1,No,No,Master's,Yes
+EMP10467,Sales,Male,47,7.3,1269000.0,5,5,No,No,Master's,No
+EMP10468,HR,Male,54,14.7,1184000.0,3,2,No,Yes,Bachelor's,No
+EMP10469,HR,Female,30,1.1,988000.0,4,5,No,No,PhD,No
+EMP10470,Marketing,Male,51,8.6,1494000.0,4,1,Yes,No,Bachelor's,No
+EMP10471,Engineering,Male,38,9.2,1031000.0,2,5,No,No,Master's,Yes
+EMP10472,Customer Support,Female,50,0.5,712000.0,3,1,No,No,Bachelor's,No
+EMP10473,Engineering,Male,52,12.9,1498000.0,4,3,Yes,Yes,Bachelor's,Yes
+EMP10474,Sales,Female,48,2.4,771000.0,2,5,No,Yes,Master's,No
+EMP10475,Marketing,Male,53,12.9,1663000.0,1,3,No,Yes,Master's,No
+EMP10476,Sales,Female,24,13.8,2051000.0,2,1,No,No,Master's,Yes
+EMP10477,Customer Support,Female,30,3.0,1764000.0,4,3,Yes,No,Master's,No
+EMP10478,Marketing,Female,47,6.3,1038000.0,4,4,No,No,Bachelor's,No
+EMP10479,HR,Male,41,13.1,1911000.0,5,1,No,No,Bachelor's,Yes
+EMP10480,Sales,Female,22,8.3,720000.0,2,3,Yes,Yes,Master's,Yes
+EMP10481,Finance,Male,33,11.9,1046000.0,1,5,No,Yes,Bachelor's,No
+EMP10482,Sales,Female,55,9.3,2162000.0,3,4,No,No,Master's,No
+EMP10483,Customer Support,Female,28,6.5,1643000.0,1,1,No,Yes,Master's,No
+EMP10484,Marketing,Female,36,5.4,1842000.0,2,1,No,No,Bachelor's,No
+EMP10485,Sales,Female,42,2.9,758000.0,5,2,No,No,Bachelor's,Yes
+EMP10486,Finance,Female,43,6.0,2059000.0,1,5,Yes,No,Bachelor's,No
+EMP10487,Customer Support,Male,49,3.3,782000.0,5,2,No,No,Bachelor's,No
+EMP10488,Sales,Male,51,2.5,1250000.0,3,3,Yes,No,Bachelor's,No
+EMP10489,Finance,Male,35,11.3,479000.0,1,4,No,No,Master's,No
+EMP10490,Finance,Female,33,3.6,1510000.0,5,4,No,Yes,Diploma,No
+EMP10491,Finance,Female,52,7.2,1447000.0,1,4,Yes,Yes,Bachelor's,Yes
+EMP10492,Operations,Male,23,3.7,2075000.0,4,1,No,No,Bachelor's,Yes
+EMP10493,Finance,Male,48,6.0,461000.0,2,1,Yes,Yes,Diploma,No
+EMP10494,Operations,Female,52,6.1,782000.0,4,4,Yes,Yes,Bachelor's,Yes
+EMP10495,Marketing,Female,36,1.8,340000.0,4,1,No,No,Bachelor's,No
+EMP10496,Engineering,Male,28,8.4,1050000.0,2,5,No,No,Master's,No
+EMP10497,Customer Support,Male,29,13.0,1679000.0,1,4,No,Yes,Diploma,No
+EMP10498,Customer Support,Male,38,2.4,1153000.0,4,4,Yes,Yes,Bachelor's,No
+EMP10499,Sales,Female,47,4.6,367000.0,2,4,No,No,Bachelor's,No
